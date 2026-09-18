@@ -1,0 +1,1026 @@
+customer_id,signup_date,country,customer_type
+C0001,2025-01-22,Pakistan,New
+C0002,"Jan 05, 2025",nan,New
+C0003,02-23-2025,Saudi Arabia,Returning
+C0004,,UAE,Returning
+C0005,2025-02-13,Pakistan,Returning
+C0006,2025-01-28,Pakistan,Returning
+C0007,01-20-2025,Pakistan,Returning
+C0008,2025-04-16,USA,Returning
+C0009,2025-01-17,Saudi Arabia,New
+C0010,2025-04-25,Saudi Arabia,New
+C0011,03-23-2025,Pakistan,New
+C0012,2025-01-07,nan,nan
+C0013,,UK,Returning
+C0014,19/01/2025,Pakistan,New
+C0015,2025-02-12,Pakistan,Returning
+C0016,2025-02-15,Pakistan,Returning
+C0017,"Apr 09, 2025",Pakistan,New
+C0018,2025-04-27,UAE,New
+C0019,"Jan 06, 2025",UAE,Returning
+C0020,2025-04-19,Pakistan,New
+C0021,2025-02-08,Saudi Arabia,Returning
+C0022,04-16-2025,Pakistan,New
+C0023,2025-03-23,Pakistan,Returning
+C0024,02-12-2025,Pakistan,nan
+C0025,2025-03-29,UAE,Returning
+C0026,2025-04-25,UK,New
+C0027,02-24-2025,Pakistan,Returning
+C0028,"Jan 02, 2025",UAE,Returning
+C0029,2025-02-01,UAE,New
+C0030,24/03/2025,Pakistan,Returning
+C0031,2025-03-08,Saudi Arabia,New
+C0032,2025-02-23,Pakistan,New
+C0033,2025-01-31,Pakistan,New
+C0034,2025-02-11,nan,New
+C0035,2025-03-07,nan,New
+C0036,2025-01-20,UK,Returning
+C0037,2025-01-19,Pakistan,New
+C0038,"Mar 15, 2025",Pakistan,Returning
+C0039,2025-01-19,Saudi Arabia,New
+C0040,03-11-2025,UAE,New
+C0041,2025-03-08,Pakistan,New
+C0042,2025-04-28,UAE,Returning
+C0043,2025-02-21,Pakistan,New
+C0044,2025-01-09,nan,Returning
+C0045,2025-03-31,Pakistan,Returning
+C0046,2025-04-15,Saudi Arabia,Returning
+C0047,2025-01-25,Pakistan,New
+C0048,2025-03-15,UAE,New
+C0049,,UAE,Returning
+C0050,18/04/2025,Pakistan,New
+C0051,26/02/2025,nan,Returning
+C0052,2025-03-12,UK,New
+C0053,2025-04-23,nan,Returning
+C0054,2025-02-07,USA,Returning
+C0055,2025-01-14,UAE,nan
+C0056,2025-01-09,nan,New
+C0057,2025-02-14,Pakistan,Returning
+C0058,2025-02-26,Pakistan,New
+C0059,2025-01-16,Pakistan,New
+C0060,2025-02-15,Pakistan,Returning
+C0061,2025-01-20,Pakistan,Returning
+C0062,2025-03-15,Pakistan,nan
+C0063,2025-02-23,UK,Returning
+C0064,2025-03-30,Pakistan,New
+C0065,2025-03-12,Pakistan,New
+C0066,2025-02-01,UAE,Returning
+C0067,2025-03-13,Pakistan,New
+C0068,2025-03-10,UK,New
+C0069,2025-02-10,Pakistan,New
+C0070,2025-02-21,nan,New
+C0071,2025-01-14,UK,New
+C0072,2025-04-29,Pakistan,New
+C0073,2025-02-03,Pakistan,New
+C0074,04-14-2025,UK,New
+C0075,2025-02-17,Saudi Arabia,nan
+C0076,2025-02-01,Saudi Arabia,New
+C0077,2025-03-31,UK,New
+C0078,2025-03-15,Pakistan,Returning
+C0079,"Feb 22, 2025",Pakistan,New
+C0080,,Pakistan,Returning
+C0081,2025-02-12,USA,Returning
+C0082,"Mar 04, 2025",Saudi Arabia,New
+C0083,2025-01-11,Pakistan,New
+C0084,2025-02-14,Pakistan,Returning
+C0085,2025-01-07,Pakistan,Returning
+C0086,,Pakistan,New
+C0087,03-19-2025,Saudi Arabia,Returning
+C0088,2025-02-21,Saudi Arabia,New
+C0089,2025-01-13,USA,nan
+C0090,2025-02-10,UAE,New
+C0091,2025-04-21,Pakistan,Returning
+C0092,2025-03-03,Saudi Arabia,Returning
+C0093,2025-02-11,UK,Returning
+C0094,04-07-2025,UAE,New
+C0095,2025-03-18,UK,New
+C0096,2025-03-31,UAE,New
+C0097,01-28-2025,UAE,New
+C0098,21/02/2025,UAE,New
+C0099,,Pakistan,Returning
+C0100,02-17-2025,Pakistan,New
+C0101,20/04/2025,Pakistan,New
+C0102,04-15-2025,Saudi Arabia,nan
+C0103,02-21-2025,Pakistan,Returning
+C0104,24/04/2025,UAE,Returning
+C0105,2025-03-25,nan,nan
+C0106,24/04/2025,Pakistan,New
+C0107,2025-03-19,UAE,New
+C0108,2025-03-12,UK,Returning
+C0109,2025-02-12,Pakistan,Returning
+C0110,27/01/2025,Pakistan,New
+C0111,09/04/2025,Pakistan,Returning
+C0112,2025-04-06,Pakistan,New
+C0113,2025-01-18,nan,New
+C0114,2025-01-10,UK,New
+C0115,2025-01-22,Saudi Arabia,New
+C0116,2025-01-30,USA,New
+C0117,01/02/2025,UK,New
+C0118,2025-03-23,Pakistan,Returning
+C0119,2025-04-26,USA,New
+C0120,2025-01-13,UAE,New
+C0121,03-16-2025,UK,Returning
+C0122,2025-03-16,USA,nan
+C0123,2025-04-26,Pakistan,Returning
+C0124,2025-04-01,Pakistan,Returning
+C0125,13/04/2025,Pakistan,Returning
+C0126,02-18-2025,UAE,New
+C0127,2025-04-18,UK,New
+C0128,2025-01-03,USA,New
+C0129,2025-01-23,Pakistan,New
+C0130,2025-04-15,UAE,New
+C0131,02-21-2025,UAE,Returning
+C0132,"Mar 08, 2025",Pakistan,New
+C0133,"Jan 22, 2025",Pakistan,New
+C0134,2025-02-26,Pakistan,New
+C0135,03-26-2025,nan,Returning
+C0136,31/01/2025,Pakistan,New
+C0137,2025-03-30,UAE,Returning
+C0138,2025-01-01,Saudi Arabia,New
+C0139,21/02/2025,Pakistan,New
+C0140,2025-04-08,nan,New
+C0141,2025-02-04,nan,Returning
+C0142,2025-04-09,Pakistan,New
+C0143,2025-01-21,UAE,Returning
+C0144,02-27-2025,Pakistan,New
+C0145,2025-04-09,Pakistan,New
+C0146,2025-04-29,Pakistan,Returning
+C0147,2025-02-08,Saudi Arabia,Returning
+C0148,2025-01-30,UAE,Returning
+C0149,2025-03-14,Pakistan,Returning
+C0150,2025-02-01,Pakistan,Returning
+C0151,15/04/2025,nan,Returning
+C0152,2025-04-13,Pakistan,Returning
+C0153,2025-01-01,Pakistan,Returning
+C0154,2025-04-27,UAE,Returning
+C0155,2025-03-04,nan,Returning
+C0156,2025-04-05,Pakistan,Returning
+C0157,2025-01-04,Saudi Arabia,New
+C0158,2025-01-22,UK,Returning
+C0159,"Mar 12, 2025",Pakistan,Returning
+C0160,2025-03-01,Saudi Arabia,New
+C0161,2025-02-16,Pakistan,Returning
+C0162,2025-01-12,Saudi Arabia,New
+C0163,2025-02-16,Saudi Arabia,New
+C0164,2025-04-21,UAE,Returning
+C0165,16/01/2025,Pakistan,New
+C0166,2025-01-17,UK,Returning
+C0167,2025-04-05,Pakistan,Returning
+C0168,2025-01-14,Pakistan,New
+C0169,2025-04-14,Pakistan,New
+C0170,,UAE,New
+C0171,2025-01-25,Saudi Arabia,Returning
+C0172,2025-04-03,Pakistan,nan
+C0173,2025-04-17,UAE,Returning
+C0174,2025-02-02,Pakistan,New
+C0175,2025-02-21,Saudi Arabia,Returning
+C0176,"Apr 13, 2025",Pakistan,New
+C0177,2025-04-28,Saudi Arabia,Returning
+C0178,2025-03-24,Pakistan,New
+C0179,2025-02-11,nan,Returning
+C0180,15/04/2025,Pakistan,New
+C0181,02-09-2025,Pakistan,nan
+C0182,2025-03-02,Pakistan,New
+C0183,03-19-2025,nan,Returning
+C0184,2025-03-14,USA,Returning
+C0185,"Mar 27, 2025",Pakistan,New
+C0186,2025-04-11,Saudi Arabia,Returning
+C0187,2025-03-29,UK,Returning
+C0188,2025-01-24,UAE,New
+C0189,2025-02-18,UAE,New
+C0190,2025-02-13,Pakistan,Returning
+C0191,2025-01-13,Pakistan,New
+C0192,,USA,New
+C0193,2025-01-05,nan,New
+C0194,04-25-2025,Saudi Arabia,Returning
+C0195,2025-04-18,Pakistan,New
+C0196,2025-02-14,Pakistan,Returning
+C0197,2025-04-25,Saudi Arabia,nan
+C0198,"Feb 12, 2025",USA,nan
+C0199,"Jan 02, 2025",USA,Returning
+C0200,01-14-2025,UK,New
+C0201,2025-01-12,Saudi Arabia,Returning
+C0202,2025-02-14,Pakistan,New
+C0203,2025-01-14,Pakistan,New
+C0204,,USA,New
+C0205,2025-03-06,Saudi Arabia,New
+C0206,2025-01-14,Pakistan,Returning
+C0207,,Pakistan,Returning
+C0208,16/02/2025,Saudi Arabia,New
+C0209,2025-02-24,Pakistan,New
+C0210,04-05-2025,Pakistan,nan
+C0211,2025-02-11,UAE,New
+C0212,2025-04-15,Saudi Arabia,New
+C0213,26/01/2025,Saudi Arabia,New
+C0214,2025-04-21,Pakistan,Returning
+C0215,22/04/2025,Saudi Arabia,Returning
+C0216,02/04/2025,Pakistan,New
+C0217,2025-02-17,Pakistan,New
+C0218,2025-04-02,Saudi Arabia,Returning
+C0219,,Saudi Arabia,Returning
+C0220,,UK,New
+C0221,2025-01-19,Saudi Arabia,nan
+C0222,19/01/2025,UAE,New
+C0223,2025-03-25,Pakistan,New
+C0224,03-10-2025,Pakistan,Returning
+C0225,2025-03-24,Pakistan,New
+C0226,2025-03-21,Pakistan,Returning
+C0227,01/04/2025,nan,New
+C0228,2025-01-11,Pakistan,New
+C0229,2025-01-20,USA,nan
+C0230,2025-01-12,Saudi Arabia,New
+C0231,2025-03-20,UK,Returning
+C0232,2025-03-07,UAE,New
+C0233,2025-01-22,UAE,New
+C0234,2025-02-18,UAE,New
+C0235,2025-02-07,Pakistan,Returning
+C0236,2025-02-06,Saudi Arabia,New
+C0237,2025-04-15,Pakistan,Returning
+C0238,2025-03-29,Pakistan,New
+C0239,2025-01-28,Saudi Arabia,nan
+C0240,2025-03-23,Pakistan,New
+C0241,05/02/2025,nan,Returning
+C0242,02-24-2025,nan,Returning
+C0243,2025-03-31,nan,Returning
+C0244,2025-02-18,Pakistan,Returning
+C0245,2025-01-15,Pakistan,Returning
+C0246,2025-03-28,nan,Returning
+C0247,,UAE,New
+C0248,01-20-2025,nan,New
+C0249,2025-01-10,nan,Returning
+C0250,2025-04-15,USA,Returning
+C0251,03/01/2025,Pakistan,Returning
+C0252,2025-01-19,Pakistan,New
+C0253,02-15-2025,USA,New
+C0254,2025-02-02,Pakistan,New
+C0255,2025-03-20,Pakistan,Returning
+C0256,2025-04-05,UAE,New
+C0257,2025-04-04,nan,New
+C0258,2025-02-11,Saudi Arabia,New
+C0259,19/03/2025,UAE,New
+C0260,2025-01-12,Pakistan,New
+C0261,2025-02-01,Saudi Arabia,New
+C0262,2025-03-15,nan,Returning
+C0263,2025-01-01,Pakistan,New
+C0264,2025-03-17,UAE,New
+C0265,21/02/2025,USA,New
+C0266,2025-03-30,Saudi Arabia,New
+C0267,2025-02-25,Saudi Arabia,New
+C0268,03-24-2025,Saudi Arabia,New
+C0269,2025-04-18,Pakistan,Returning
+C0270,04-05-2025,Pakistan,New
+C0271,2025-01-31,UK,Returning
+C0272,02-06-2025,UK,Returning
+C0273,2025-02-27,USA,Returning
+C0274,02-12-2025,nan,New
+C0275,2025-01-12,UAE,New
+C0276,23/04/2025,UAE,New
+C0277,2025-04-16,UK,New
+C0278,2025-01-12,Saudi Arabia,nan
+C0279,2025-03-02,Saudi Arabia,New
+C0280,"Jan 12, 2025",UK,New
+C0281,2025-01-10,USA,Returning
+C0282,2025-04-24,Pakistan,Returning
+C0283,2025-04-03,Pakistan,New
+C0284,2025-04-08,Pakistan,New
+C0285,2025-04-14,UAE,New
+C0286,31/01/2025,Pakistan,New
+C0287,2025-01-12,UAE,New
+C0288,2025-04-09,UAE,New
+C0289,2025-01-16,Pakistan,New
+C0290,"Feb 06, 2025",UAE,New
+C0291,2025-01-14,Pakistan,New
+C0292,2025-04-26,Pakistan,New
+C0293,2025-01-14,UK,New
+C0294,02-15-2025,Pakistan,Returning
+C0295,"Mar 20, 2025",Pakistan,Returning
+C0296,2025-01-24,UAE,New
+C0297,04-21-2025,UK,New
+C0298,2025-02-17,Pakistan,New
+C0299,2025-04-23,Saudi Arabia,Returning
+C0300,2025-04-26,Pakistan,Returning
+C0301,2025-01-08,Pakistan,New
+C0302,2025-01-16,UAE,Returning
+C0303,2025-03-23,UAE,New
+C0304,2025-04-24,Saudi Arabia,New
+C0305,04-20-2025,Saudi Arabia,Returning
+C0306,2025-04-12,nan,Returning
+C0307,2025-03-03,UAE,Returning
+C0308,2025-02-20,Pakistan,Returning
+C0309,2025-02-09,UK,New
+C0310,2025-03-03,Pakistan,Returning
+C0311,2025-02-16,UAE,New
+C0312,2025-02-21,Pakistan,Returning
+C0313,18/03/2025,Pakistan,New
+C0314,2025-01-26,nan,Returning
+C0315,2025-02-28,UK,New
+C0316,2025-03-30,Saudi Arabia,Returning
+C0317,2025-03-03,UAE,New
+C0318,2025-01-15,Pakistan,Returning
+C0319,2025-01-02,Pakistan,New
+C0320,2025-03-30,Pakistan,New
+C0321,2025-04-20,UAE,New
+C0322,20/01/2025,Saudi Arabia,New
+C0323,"Jan 15, 2025",Saudi Arabia,Returning
+C0324,2025-04-15,Pakistan,New
+C0325,2025-02-11,nan,nan
+C0326,2025-04-09,Saudi Arabia,New
+C0327,2025-02-21,UAE,New
+C0328,2025-01-26,Saudi Arabia,Returning
+C0329,09/03/2025,UAE,Returning
+C0330,,Pakistan,New
+C0331,2025-02-17,Pakistan,New
+C0332,2025-03-13,UK,Returning
+C0333,2025-02-25,Pakistan,New
+C0334,2025-01-31,Pakistan,nan
+C0335,2025-03-27,Pakistan,nan
+C0336,2025-04-16,Pakistan,Returning
+C0337,2025-02-28,USA,New
+C0338,"Apr 29, 2025",Saudi Arabia,Returning
+C0339,2025-04-13,UAE,New
+C0340,01-02-2025,Pakistan,New
+C0341,2025-04-18,UAE,New
+C0342,28/02/2025,UAE,New
+C0343,2025-01-21,Pakistan,Returning
+C0344,2025-01-27,UAE,Returning
+C0345,2025-02-21,Pakistan,Returning
+C0346,2025-01-23,Saudi Arabia,New
+C0347,2025-01-21,Saudi Arabia,New
+C0348,2025-04-18,Pakistan,New
+C0349,2025-01-31,Pakistan,nan
+C0350,2025-02-22,Saudi Arabia,New
+C0351,2025-02-24,UAE,Returning
+C0352,2025-04-28,USA,New
+C0353,2025-02-10,Saudi Arabia,New
+C0354,2025-03-08,Pakistan,Returning
+C0355,2025-02-09,Pakistan,New
+C0356,2025-02-21,Saudi Arabia,Returning
+C0357,2025-04-09,Pakistan,Returning
+C0358,,UAE,New
+C0359,2025-02-18,nan,New
+C0360,2025-01-10,UAE,New
+C0361,"Jan 18, 2025",Pakistan,Returning
+C0362,24/03/2025,Saudi Arabia,New
+C0363,23/02/2025,UAE,Returning
+C0364,2025-01-09,UAE,Returning
+C0365,2025-01-01,nan,Returning
+C0366,2025-03-06,Pakistan,New
+C0367,2025-01-26,nan,Returning
+C0368,2025-02-20,nan,Returning
+C0369,2025-02-01,Pakistan,New
+C0370,2025-03-27,Pakistan,New
+C0371,2025-04-18,Pakistan,nan
+C0372,2025-03-25,Pakistan,New
+C0373,2025-04-19,Pakistan,Returning
+C0374,2025-01-02,Saudi Arabia,New
+C0375,22/01/2025,Pakistan,New
+C0376,2025-01-15,Pakistan,Returning
+C0377,2025-01-29,UK,New
+C0378,2025-04-16,Pakistan,New
+C0379,2025-01-07,UK,New
+C0380,2025-03-13,Pakistan,New
+C0381,2025-04-24,Pakistan,New
+C0382,2025-04-18,Saudi Arabia,New
+C0383,2025-01-29,Saudi Arabia,nan
+C0384,2025-03-25,USA,New
+C0385,"Jan 25, 2025",Saudi Arabia,Returning
+C0386,2025-01-09,UK,New
+C0387,"Mar 01, 2025",Pakistan,Returning
+C0388,2025-03-12,Pakistan,New
+C0389,2025-01-08,UK,nan
+C0390,2025-03-11,UK,New
+C0391,2025-02-10,nan,New
+C0392,2025-02-18,UAE,New
+C0393,2025-01-20,Pakistan,New
+C0394,2025-03-10,UK,New
+C0395,2025-04-19,Pakistan,New
+C0396,03-20-2025,nan,Returning
+C0397,31/01/2025,USA,New
+C0398,2025-02-15,UAE,New
+C0399,01/02/2025,UK,Returning
+C0400,2025-02-04,UK,Returning
+C0401,2025-03-22,Pakistan,New
+C0402,2025-01-05,nan,New
+C0403,2025-02-04,UAE,New
+C0404,06/03/2025,UK,Returning
+C0405,2025-03-21,Pakistan,Returning
+C0406,"Feb 18, 2025",USA,New
+C0407,2025-02-21,Pakistan,Returning
+C0408,2025-01-31,Pakistan,Returning
+C0409,2025-01-21,nan,New
+C0410,2025-03-16,Pakistan,Returning
+C0411,2025-01-08,Pakistan,New
+C0412,2025-04-02,nan,New
+C0413,13/02/2025,nan,New
+C0414,2025-02-08,UAE,New
+C0415,"Mar 31, 2025",Saudi Arabia,New
+C0416,2025-03-09,UAE,Returning
+C0417,2025-03-01,Pakistan,New
+C0418,2025-02-14,Pakistan,New
+C0419,2025-02-13,Saudi Arabia,New
+C0420,2025-01-05,UK,Returning
+C0421,02-07-2025,UK,New
+C0422,2025-03-19,UK,New
+C0423,,Pakistan,New
+C0424,2025-02-24,UAE,New
+C0425,,Pakistan,nan
+C0426,2025-02-24,UAE,nan
+C0427,2025-03-10,UAE,New
+C0428,2025-04-09,USA,nan
+C0429,2025-03-19,Pakistan,Returning
+C0430,15/04/2025,Pakistan,Returning
+C0431,2025-03-06,Pakistan,New
+C0432,2025-01-06,UK,New
+C0433,2025-01-23,Saudi Arabia,New
+C0434,2025-02-20,Pakistan,Returning
+C0435,2025-02-04,Pakistan,New
+C0436,2025-04-23,Saudi Arabia,New
+C0437,2025-02-21,Pakistan,New
+C0438,2025-01-08,UK,Returning
+C0439,,Saudi Arabia,New
+C0440,2025-04-26,Pakistan,Returning
+C0441,2025-03-26,Pakistan,nan
+C0442,2025-03-09,nan,New
+C0443,2025-03-02,Pakistan,Returning
+C0444,"Mar 26, 2025",Pakistan,New
+C0445,28/04/2025,UK,Returning
+C0446,2025-04-10,nan,New
+C0447,01-23-2025,nan,Returning
+C0448,2025-03-16,UK,Returning
+C0449,2025-04-22,Pakistan,Returning
+C0450,2025-02-06,Pakistan,Returning
+C0451,2025-02-19,UK,New
+C0452,"Jan 09, 2025",UAE,Returning
+C0453,2025-03-26,UAE,Returning
+C0454,01/01/2025,nan,New
+C0455,04-11-2025,Pakistan,New
+C0456,,UAE,Returning
+C0457,2025-02-08,Pakistan,Returning
+C0458,2025-03-12,UAE,Returning
+C0459,2025-03-25,Pakistan,New
+C0460,14/01/2025,Pakistan,Returning
+C0461,,Pakistan,New
+C0462,2025-03-02,Saudi Arabia,Returning
+C0463,2025-01-25,Saudi Arabia,New
+C0464,2025-02-28,UAE,Returning
+C0465,04-09-2025,nan,nan
+C0466,2025-03-02,Pakistan,New
+C0467,21/03/2025,Pakistan,nan
+C0468,2025-03-05,USA,New
+C0469,2025-03-20,Pakistan,Returning
+C0470,2025-02-27,nan,Returning
+C0471,2025-04-18,Pakistan,New
+C0472,2025-01-25,nan,Returning
+C0473,2025-02-07,Pakistan,Returning
+C0474,2025-03-23,USA,New
+C0475,2025-03-15,UAE,New
+C0476,02-03-2025,nan,Returning
+C0477,"Apr 21, 2025",Pakistan,Returning
+C0478,2025-02-28,UAE,Returning
+C0479,2025-03-20,nan,Returning
+C0480,2025-04-17,UAE,New
+C0481,2025-01-01,Saudi Arabia,Returning
+C0482,03-01-2025,Saudi Arabia,New
+C0483,2025-02-25,UAE,New
+C0484,2025-02-10,Saudi Arabia,New
+C0485,2025-03-25,UAE,New
+C0486,2025-04-23,nan,New
+C0487,28/04/2025,Pakistan,New
+C0488,2025-03-04,Pakistan,Returning
+C0489,2025-04-01,nan,New
+C0490,2025-03-27,USA,New
+C0491,2025-03-27,UAE,New
+C0492,2025-02-11,Saudi Arabia,New
+C0493,10/04/2025,Pakistan,New
+C0494,"Apr 02, 2025",Pakistan,New
+C0495,,UAE,Returning
+C0496,01-17-2025,Pakistan,Returning
+C0497,2025-02-25,UAE,Returning
+C0498,2025-04-11,Pakistan,New
+C0499,2025-03-07,nan,New
+C0500,2025-01-19,nan,Returning
+C0501,2025-02-15,Saudi Arabia,New
+C0502,"Mar 02, 2025",UAE,New
+C0503,2025-02-13,Pakistan,New
+C0504,08/02/2025,UK,New
+C0505,2025-01-29,Saudi Arabia,New
+C0506,,Pakistan,New
+C0507,2025-01-09,nan,New
+C0508,2025-02-17,UK,New
+C0509,03/04/2025,nan,Returning
+C0510,2025-04-29,Saudi Arabia,Returning
+C0511,2025-01-15,Saudi Arabia,Returning
+C0512,30/03/2025,UAE,Returning
+C0513,2025-03-22,nan,nan
+C0514,2025-04-22,USA,New
+C0515,02-07-2025,Pakistan,New
+C0516,2025-03-16,Pakistan,New
+C0517,2025-04-06,Pakistan,Returning
+C0518,2025-03-19,UK,Returning
+C0519,2025-02-17,nan,New
+C0520,2025-01-29,Pakistan,Returning
+C0521,2025-01-02,UAE,New
+C0522,01-21-2025,Pakistan,Returning
+C0523,24/03/2025,nan,New
+C0524,2025-02-12,UK,New
+C0525,2025-02-04,UK,New
+C0526,11/04/2025,UAE,New
+C0527,"Apr 01, 2025",UAE,New
+C0528,2025-01-10,Pakistan,New
+C0529,19/04/2025,Pakistan,Returning
+C0530,18/02/2025,USA,New
+C0531,2025-01-24,UK,New
+C0532,2025-03-30,nan,Returning
+C0533,"Jan 26, 2025",nan,Returning
+C0534,01/04/2025,UAE,New
+C0535,04-14-2025,UK,New
+C0536,2025-04-19,nan,New
+C0537,2025-04-26,UK,New
+C0538,2025-03-03,Pakistan,Returning
+C0539,2025-03-27,UAE,New
+C0540,29/04/2025,Pakistan,New
+C0541,09/04/2025,nan,Returning
+C0542,2025-03-24,Saudi Arabia,New
+C0543,2025-04-17,Pakistan,New
+C0544,2025-03-28,Saudi Arabia,New
+C0545,2025-01-31,Saudi Arabia,nan
+C0546,2025-04-03,Pakistan,New
+C0547,03-29-2025,Pakistan,Returning
+C0548,2025-02-20,Saudi Arabia,New
+C0549,2025-02-18,UAE,New
+C0550,2025-02-23,UK,Returning
+C0551,"Apr 12, 2025",UAE,nan
+C0552,05/04/2025,USA,Returning
+C0553,2025-02-16,UAE,Returning
+C0554,2025-02-23,UAE,Returning
+C0555,2025-03-27,USA,New
+C0556,2025-01-16,UAE,New
+C0557,2025-02-25,Pakistan,Returning
+C0558,2025-02-15,Pakistan,New
+C0559,02-22-2025,UK,Returning
+C0560,2025-03-07,Saudi Arabia,Returning
+C0561,03-04-2025,Saudi Arabia,New
+C0562,15/04/2025,Pakistan,New
+C0563,01-16-2025,Pakistan,Returning
+C0564,"Jan 27, 2025",Pakistan,New
+C0565,2025-01-30,Pakistan,Returning
+C0566,2025-02-14,UAE,New
+C0567,2025-03-16,Pakistan,Returning
+C0568,2025-01-30,UAE,New
+C0569,2025-02-11,nan,Returning
+C0570,2025-01-13,Pakistan,New
+C0571,2025-03-22,UAE,New
+C0572,2025-03-21,UK,New
+C0573,06/03/2025,Pakistan,Returning
+C0574,2025-04-16,Saudi Arabia,Returning
+C0575,2025-04-01,USA,New
+C0576,2025-03-22,nan,New
+C0577,01-13-2025,Pakistan,New
+C0578,2025-02-10,nan,Returning
+C0579,03-23-2025,UAE,Returning
+C0580,17/03/2025,Pakistan,New
+C0581,2025-04-24,UAE,New
+C0582,2025-01-04,nan,New
+C0583,04-22-2025,UAE,New
+C0584,2025-03-15,Pakistan,New
+C0585,2025-04-03,Saudi Arabia,nan
+C0586,2025-01-02,Pakistan,New
+C0587,"Mar 10, 2025",Pakistan,Returning
+C0588,2025-02-27,Pakistan,New
+C0589,2025-03-17,Pakistan,New
+C0590,23/03/2025,Pakistan,Returning
+C0591,2025-04-15,Pakistan,Returning
+C0592,2025-04-17,Saudi Arabia,nan
+C0593,2025-04-28,Pakistan,New
+C0594,2025-02-12,Pakistan,New
+C0595,2025-04-05,USA,Returning
+C0596,2025-02-12,UAE,New
+C0597,02-22-2025,Saudi Arabia,New
+C0598,2025-03-26,Pakistan,New
+C0599,2025-04-05,Pakistan,New
+C0600,2025-01-06,Pakistan,Returning
+C0601,2025-03-17,Pakistan,New
+C0602,07/03/2025,Pakistan,New
+C0603,2025-03-20,Pakistan,New
+C0604,2025-02-02,Pakistan,New
+C0605,2025-04-01,Pakistan,New
+C0606,2025-01-25,UAE,New
+C0607,2025-04-14,Pakistan,New
+C0608,2025-01-06,Pakistan,Returning
+C0609,2025-03-18,UAE,New
+C0610,2025-04-25,Saudi Arabia,New
+C0611,"Apr 20, 2025",Pakistan,Returning
+C0612,2025-01-06,UK,Returning
+C0613,17/01/2025,Saudi Arabia,New
+C0614,2025-03-25,Pakistan,New
+C0615,2025-01-27,USA,New
+C0616,03-31-2025,nan,Returning
+C0617,2025-02-05,Pakistan,nan
+C0618,2025-01-10,Pakistan,Returning
+C0619,2025-02-20,UK,New
+C0620,15/03/2025,Saudi Arabia,Returning
+C0621,2025-03-05,Pakistan,New
+C0622,2025-02-11,Pakistan,New
+C0623,2025-03-30,Pakistan,New
+C0624,2025-03-05,UAE,nan
+C0625,2025-03-07,Saudi Arabia,New
+C0626,2025-03-15,Pakistan,Returning
+C0627,24/02/2025,UAE,New
+C0628,2025-03-23,Saudi Arabia,New
+C0629,2025-02-18,Pakistan,New
+C0630,2025-01-16,Pakistan,New
+C0631,2025-04-02,Saudi Arabia,Returning
+C0632,01-04-2025,USA,New
+C0633,2025-04-15,UAE,Returning
+C0634,,UAE,Returning
+C0635,2025-03-09,Pakistan,Returning
+C0636,2025-02-13,UAE,New
+C0637,2025-01-14,UAE,New
+C0638,08/01/2025,Pakistan,New
+C0639,"Jan 07, 2025",Pakistan,nan
+C0640,2025-02-18,Pakistan,Returning
+C0641,2025-02-08,Pakistan,New
+C0642,04/01/2025,Pakistan,Returning
+C0643,01-30-2025,Pakistan,New
+C0644,2025-02-16,Pakistan,Returning
+C0645,2025-01-25,Pakistan,New
+C0646,2025-04-02,USA,Returning
+C0647,23/01/2025,UAE,New
+C0648,2025-04-20,Saudi Arabia,Returning
+C0649,2025-02-12,UK,Returning
+C0650,2025-04-01,UAE,Returning
+C0651,2025-02-19,Pakistan,New
+C0652,03-13-2025,UAE,New
+C0653,2025-02-02,UAE,New
+C0654,2025-04-28,Saudi Arabia,New
+C0655,2025-04-28,UAE,New
+C0656,23/01/2025,Pakistan,Returning
+C0657,2025-02-01,Pakistan,New
+C0658,2025-03-02,Pakistan,New
+C0659,2025-01-21,Saudi Arabia,New
+C0660,"Apr 23, 2025",UAE,New
+C0661,2025-01-05,Pakistan,Returning
+C0662,2025-03-02,nan,New
+C0663,2025-04-22,Saudi Arabia,Returning
+C0664,2025-03-14,Pakistan,New
+C0665,19/03/2025,Pakistan,nan
+C0666,2025-02-08,Pakistan,Returning
+C0667,2025-01-15,Pakistan,New
+C0668,2025-04-25,Pakistan,Returning
+C0669,2025-02-17,Pakistan,New
+C0670,,Pakistan,Returning
+C0671,2025-02-28,Pakistan,New
+C0672,2025-04-27,USA,Returning
+C0673,2025-01-24,Pakistan,Returning
+C0674,2025-04-20,UAE,Returning
+C0675,2025-01-08,UAE,Returning
+C0676,2025-03-09,nan,New
+C0677,14/04/2025,Pakistan,New
+C0678,2025-03-25,Pakistan,New
+C0679,2025-03-13,nan,New
+C0680,2025-01-14,USA,Returning
+C0681,09/04/2025,UK,New
+C0682,03-08-2025,Pakistan,nan
+C0683,2025-01-03,Pakistan,Returning
+C0684,2025-03-23,Saudi Arabia,Returning
+C0685,2025-04-06,nan,New
+C0686,21/01/2025,UAE,Returning
+C0687,2025-03-26,UAE,Returning
+C0688,2025-03-12,Pakistan,New
+C0689,2025-03-31,UK,Returning
+C0690,2025-01-30,Pakistan,Returning
+C0691,26/03/2025,Pakistan,New
+C0692,2025-02-04,UAE,New
+C0693,2025-04-12,UAE,New
+C0694,02-22-2025,Pakistan,New
+C0695,2025-04-15,Pakistan,New
+C0696,2025-04-04,Saudi Arabia,New
+C0697,2025-04-01,Pakistan,New
+C0698,2025-03-26,UAE,New
+C0699,2025-04-26,Pakistan,nan
+C0700,2025-02-22,UAE,New
+C0701,"Mar 04, 2025",UAE,nan
+C0702,2025-02-17,Pakistan,New
+C0703,2025-01-17,Pakistan,New
+C0704,2025-02-24,Pakistan,New
+C0705,2025-03-29,Pakistan,New
+C0706,2025-02-17,nan,New
+C0707,2025-04-01,Pakistan,Returning
+C0708,2025-04-21,UK,New
+C0709,2025-04-29,Pakistan,Returning
+C0710,2025-03-15,Saudi Arabia,Returning
+C0711,2025-03-07,UK,New
+C0712,"Jan 06, 2025",UAE,New
+C0713,2025-04-06,UAE,Returning
+C0714,2025-03-05,UAE,New
+C0715,2025-02-05,Pakistan,New
+C0716,04-05-2025,nan,nan
+C0717,2025-02-11,UK,New
+C0718,10/03/2025,nan,Returning
+C0719,20/02/2025,Pakistan,nan
+C0720,2025-03-08,Saudi Arabia,New
+C0721,2025-02-24,nan,New
+C0722,2025-04-26,Pakistan,New
+C0723,,Pakistan,New
+C0724,2025-04-18,Saudi Arabia,New
+C0725,2025-01-02,UAE,Returning
+C0726,2025-04-11,UK,New
+C0727,2025-02-07,Pakistan,New
+C0728,17/01/2025,UK,nan
+C0729,,Pakistan,Returning
+C0730,20/03/2025,Pakistan,Returning
+C0731,"Apr 05, 2025",Pakistan,New
+C0732,,UK,Returning
+C0733,2025-02-16,Saudi Arabia,New
+C0734,03/04/2025,UAE,New
+C0735,2025-04-06,Pakistan,New
+C0736,2025-03-29,USA,Returning
+C0737,2025-01-04,Pakistan,New
+C0738,2025-01-19,UK,New
+C0739,27/02/2025,UAE,New
+C0740,13/02/2025,Pakistan,New
+C0741,2025-03-20,UAE,Returning
+C0742,2025-02-17,Pakistan,Returning
+C0743,2025-03-01,Saudi Arabia,Returning
+C0744,,UAE,New
+C0745,13/03/2025,Pakistan,New
+C0746,2025-04-02,USA,New
+C0747,2025-04-18,Pakistan,New
+C0748,2025-04-14,UAE,New
+C0749,2025-03-08,nan,Returning
+C0750,2025-03-24,Saudi Arabia,New
+C0751,,Pakistan,New
+C0752,2025-03-06,nan,New
+C0753,03-10-2025,Saudi Arabia,New
+C0754,2025-03-30,Pakistan,New
+C0755,2025-02-22,Pakistan,nan
+C0756,01/03/2025,UK,Returning
+C0757,2025-02-18,Saudi Arabia,nan
+C0758,2025-02-14,UAE,New
+C0759,2025-01-24,USA,New
+C0760,2025-02-07,UK,New
+C0761,2025-03-03,Pakistan,New
+C0762,2025-01-24,Pakistan,Returning
+C0763,2025-04-15,Pakistan,New
+C0764,2025-02-05,Saudi Arabia,New
+C0765,2025-02-07,Pakistan,New
+C0766,2025-02-12,UAE,New
+C0767,04-05-2025,UK,Returning
+C0768,2025-02-23,USA,New
+C0769,2025-04-25,Pakistan,New
+C0770,12/04/2025,UK,New
+C0771,2025-04-26,Pakistan,New
+C0772,2025-02-24,UK,Returning
+C0773,01-20-2025,Pakistan,Returning
+C0774,02-07-2025,Pakistan,nan
+C0775,2025-02-27,UK,Returning
+C0776,2025-02-14,Pakistan,New
+C0777,2025-03-12,Pakistan,Returning
+C0778,"Feb 04, 2025",Saudi Arabia,New
+C0779,2025-02-28,Saudi Arabia,New
+C0780,"Jan 03, 2025",Saudi Arabia,Returning
+C0781,2025-04-14,Saudi Arabia,New
+C0782,2025-01-25,UAE,Returning
+C0783,2025-02-23,Pakistan,New
+C0784,2025-01-09,Pakistan,Returning
+C0785,"Jan 11, 2025",Pakistan,Returning
+C0786,2025-04-18,nan,Returning
+C0787,2025-02-26,UAE,Returning
+C0788,2025-01-25,UAE,Returning
+C0789,2025-04-06,UAE,New
+C0790,2025-01-20,nan,New
+C0791,2025-01-03,Pakistan,New
+C0792,2025-04-22,UAE,Returning
+C0793,2025-02-25,UAE,New
+C0794,2025-04-02,Saudi Arabia,Returning
+C0795,04-03-2025,Pakistan,New
+C0796,2025-03-27,USA,New
+C0797,"Mar 08, 2025",nan,Returning
+C0798,2025-02-05,UAE,New
+C0799,01-10-2025,Saudi Arabia,New
+C0800,2025-02-19,nan,New
+C0801,"Apr 03, 2025",Saudi Arabia,nan
+C0802,23/01/2025,Pakistan,Returning
+C0803,2025-01-13,UAE,New
+C0804,2025-03-19,Saudi Arabia,New
+C0805,2025-04-06,UAE,New
+C0806,2025-01-15,Saudi Arabia,Returning
+C0807,2025-04-23,nan,Returning
+C0808,01-11-2025,nan,New
+C0809,2025-01-30,UAE,New
+C0810,2025-01-29,Pakistan,New
+C0811,2025-04-20,nan,Returning
+C0812,2025-02-28,UK,Returning
+C0813,17/01/2025,Pakistan,New
+C0814,2025-02-18,nan,New
+C0815,2025-01-24,USA,New
+C0816,2025-04-19,UAE,nan
+C0817,2025-03-22,UAE,New
+C0818,2025-04-28,Pakistan,Returning
+C0819,2025-04-26,Pakistan,Returning
+C0820,2025-02-13,Pakistan,New
+C0821,2025-04-12,UK,New
+C0822,03-15-2025,Pakistan,New
+C0823,2025-03-29,Pakistan,Returning
+C0824,,Pakistan,Returning
+C0825,2025-02-27,UAE,Returning
+C0826,2025-04-25,nan,New
+C0827,25/03/2025,Pakistan,New
+C0828,2025-03-01,Pakistan,nan
+C0829,2025-04-21,Saudi Arabia,Returning
+C0830,2025-01-12,UAE,New
+C0831,2025-04-29,Pakistan,nan
+C0832,2025-01-20,UAE,Returning
+C0833,2025-02-10,Pakistan,New
+C0834,2025-02-10,Pakistan,Returning
+C0835,"Feb 21, 2025",UAE,Returning
+C0836,01-16-2025,UAE,Returning
+C0837,2025-01-31,nan,New
+C0838,"Feb 16, 2025",Pakistan,New
+C0839,02-03-2025,UAE,Returning
+C0840,18/04/2025,Saudi Arabia,New
+C0841,"Jan 15, 2025",Pakistan,New
+C0842,31/01/2025,Saudi Arabia,New
+C0843,2025-01-01,Pakistan,New
+C0844,2025-03-21,nan,Returning
+C0845,,Pakistan,Returning
+C0846,2025-04-26,UAE,New
+C0847,04-02-2025,Pakistan,New
+C0848,2025-02-26,nan,New
+C0849,2025-01-07,UAE,Returning
+C0850,2025-02-14,UAE,Returning
+C0851,2025-02-25,Pakistan,New
+C0852,2025-02-24,Saudi Arabia,Returning
+C0853,2025-03-30,Pakistan,Returning
+C0854,2025-01-14,USA,Returning
+C0855,2025-02-15,Pakistan,Returning
+C0856,2025-02-21,Pakistan,New
+C0857,04-25-2025,Pakistan,Returning
+C0858,2025-02-08,UAE,New
+C0859,2025-03-24,UAE,Returning
+C0860,2025-01-23,Pakistan,Returning
+C0861,2025-04-16,UK,Returning
+C0862,2025-02-13,UAE,Returning
+C0863,2025-01-29,UAE,New
+C0864,2025-02-21,UAE,New
+C0865,2025-01-28,UAE,nan
+C0866,2025-01-14,UAE,Returning
+C0867,2025-01-12,Pakistan,New
+C0868,2025-02-02,Pakistan,New
+C0869,2025-03-01,USA,New
+C0870,2025-04-26,nan,Returning
+C0871,2025-04-21,Pakistan,Returning
+C0872,2025-02-26,Pakistan,New
+C0873,2025-03-27,Saudi Arabia,New
+C0874,01-25-2025,UAE,Returning
+C0875,2025-04-02,Pakistan,Returning
+C0876,2025-03-01,Pakistan,New
+C0877,2025-03-20,Saudi Arabia,New
+C0878,2025-02-22,Saudi Arabia,New
+C0879,2025-04-08,Pakistan,New
+C0880,,Pakistan,New
+C0881,2025-04-06,Pakistan,Returning
+C0882,2025-03-27,Saudi Arabia,Returning
+C0883,2025-01-16,Pakistan,Returning
+C0884,2025-04-27,Pakistan,Returning
+C0885,2025-01-08,UK,New
+C0886,2025-03-25,Pakistan,New
+C0887,2025-03-04,Saudi Arabia,New
+C0888,28/04/2025,Pakistan,New
+C0889,18/02/2025,Pakistan,Returning
+C0890,2025-01-06,Pakistan,nan
+C0891,2025-01-18,Saudi Arabia,New
+C0892,02-14-2025,USA,New
+C0893,2025-04-22,UK,Returning
+C0894,"Apr 25, 2025",Pakistan,New
+C0895,2025-01-05,Saudi Arabia,New
+C0896,2025-02-22,Pakistan,Returning
+C0897,2025-04-22,Pakistan,Returning
+C0898,01-08-2025,USA,New
+C0899,2025-02-04,Pakistan,New
+C0900,2025-04-02,Pakistan,Returning
+C0901,2025-04-11,Pakistan,New
+C0902,2025-03-27,Pakistan,New
+C0903,2025-02-24,Pakistan,Returning
+C0904,2025-02-05,UAE,New
+C0905,2025-04-24,UAE,Returning
+C0906,2025-03-26,USA,New
+C0907,2025-04-06,UK,nan
+C0908,2025-01-18,Pakistan,New
+C0909,2025-04-02,Pakistan,New
+C0910,03-09-2025,Pakistan,New
+C0911,03-21-2025,UAE,New
+C0912,2025-03-06,Pakistan,Returning
+C0913,2025-03-04,Saudi Arabia,nan
+C0914,2025-01-21,UAE,New
+C0915,2025-02-01,UAE,New
+C0916,,UAE,Returning
+C0917,2025-03-21,Pakistan,Returning
+C0918,2025-04-07,nan,New
+C0919,2025-02-25,UK,New
+C0920,2025-03-19,Pakistan,New
+C0921,2025-04-17,USA,Returning
+C0922,08/01/2025,UAE,New
+C0923,30/03/2025,USA,Returning
+C0924,2025-01-18,UK,New
+C0925,03-03-2025,UAE,Returning
+C0926,2025-02-19,Pakistan,New
+C0927,2025-03-04,Pakistan,New
+C0928,23/01/2025,UAE,New
+C0929,2025-03-20,Saudi Arabia,Returning
+C0930,2025-04-10,Pakistan,New
+C0931,2025-01-01,Pakistan,New
+C0932,2025-04-16,UK,New
+C0933,2025-03-31,nan,New
+C0934,2025-03-22,UAE,Returning
+C0935,2025-01-11,Pakistan,Returning
+C0936,2025-02-06,Pakistan,Returning
+C0937,04-11-2025,Pakistan,New
+C0938,12/03/2025,nan,Returning
+C0939,07/04/2025,Pakistan,New
+C0940,2025-03-27,UAE,New
+C0941,2025-01-11,Pakistan,New
+C0942,,UAE,New
+C0943,2025-02-21,Saudi Arabia,Returning
+C0944,2025-04-17,UK,Returning
+C0945,"Jan 26, 2025",Pakistan,Returning
+C0946,2025-02-25,Pakistan,New
+C0947,2025-03-27,Pakistan,New
+C0948,2025-04-05,nan,New
+C0949,2025-01-24,USA,New
+C0950,01-06-2025,UAE,New
+C0951,2025-04-29,Saudi Arabia,New
+C0952,16/02/2025,Saudi Arabia,New
+C0953,2025-01-31,Pakistan,New
+C0954,2025-03-02,nan,Returning
+C0955,"Apr 17, 2025",UAE,nan
+C0956,2025-01-03,Pakistan,Returning
+C0957,2025-04-18,UAE,Returning
+C0958,"Mar 21, 2025",Pakistan,New
+C0959,,Pakistan,Returning
+C0960,13/02/2025,Saudi Arabia,Returning
+C0961,23/01/2025,Pakistan,New
+C0962,2025-03-31,Saudi Arabia,New
+C0963,2025-01-23,Pakistan,Returning
+C0964,2025-01-30,Pakistan,New
+C0965,2025-04-07,Pakistan,New
+C0966,"Feb 26, 2025",Pakistan,New
+C0967,09/04/2025,Saudi Arabia,New
+C0968,2025-02-23,Pakistan,New
+C0969,2025-03-22,UAE,New
+C0970,2025-04-04,UAE,New
+C0971,04-02-2025,Saudi Arabia,New
+C0972,2025-02-17,nan,Returning
+C0973,2025-03-30,Saudi Arabia,New
+C0974,18/04/2025,Pakistan,New
+C0975,2025-01-29,Pakistan,New
+C0976,2025-03-16,Pakistan,Returning
+C0977,"Feb 07, 2025",UAE,New
+C0978,2025-04-27,Pakistan,New
+C0979,"Apr 09, 2025",UAE,Returning
+C0980,2025-01-27,UAE,Returning
+C0981,14/01/2025,Pakistan,New
+C0982,2025-02-23,UK,Returning
+C0983,03-22-2025,Pakistan,New
+C0984,2025-03-07,Pakistan,New
+C0985,2025-04-09,Saudi Arabia,New
+C0986,2025-02-21,UAE,New
+C0987,2025-01-01,Saudi Arabia,Returning
+C0988,24/02/2025,UAE,New
+C0989,2025-02-27,Pakistan,New
+C0990,2025-04-24,UK,Returning
+C0991,04-23-2025,UK,Returning
+C0992,2025-04-06,Saudi Arabia,New
+C0993,2025-01-29,Pakistan,Returning
+C0994,2025-03-28,UAE,New
+C0995,2025-04-15,Pakistan,Returning
+C0996,2025-04-05,Pakistan,Returning
+C0997,2025-03-09,nan,nan
+C0998,2025-03-06,Pakistan,New
+C0999,"Apr 18, 2025",nan,New
+C1000,,UAE,New
+C0001,2025-01-22,Pakistan,New
+C0002,"Jan 05, 2025",nan,New
+C0003,02-23-2025,Saudi Arabia,Returning
+C0004,,UAE,Returning
+C0005,2025-02-13,Pakistan,Returning
+C0006,2025-01-28,Pakistan,Returning
+C0007,01-20-2025,Pakistan,Returning
+C0008,2025-04-16,USA,Returning
+C0009,2025-01-17,Saudi Arabia,New
+C0010,2025-04-25,Saudi Arabia,New
+C0011,03-23-2025,Pakistan,New
+C0012,2025-01-07,nan,nan
+C0013,,UK,Returning
+C0014,19/01/2025,Pakistan,New
+C0015,2025-02-12,Pakistan,Returning
+C0016,2025-02-15,Pakistan,Returning
+C0017,"Apr 09, 2025",Pakistan,New
+C0018,2025-04-27,UAE,New
+C0019,"Jan 06, 2025",UAE,Returning
+C0020,2025-04-19,Pakistan,New
+C0021,2025-02-08,Saudi Arabia,Returning
+C0022,04-16-2025,Pakistan,New
+C0023,2025-03-23,Pakistan,Returning
+C0024,02-12-2025,Pakistan,nan
+C0025,2025-03-29,UAE,Returning

@@ -1,0 +1,22 @@
+product_id,product_name,category,cost,unit_price
+P001,Wireless Headphones,Electronics,3500.0,5000
+P001,wireless headphones,Electronics,3500.0,5000
+P002,Smart Watch ,Electronics,8000.0,12000
+P003,Bluetooth Speaker,Electronics,2500.0,4000
+P004,LAPTOP STAND,Accessories,1200.0,2000
+P005,Ergonomic Mouse,Accessories,1500.0,2500
+P006,Mechanical Keyboard,,4000.0,6500
+P007,USB-C Hub,Accessories,1800.0,3000
+P008,Cotton T-Shirt,Apparel,500.0,1200
+P009,Denim Jeans,Apparel,,3500
+P010,Hoodie Sweatershirt,Apparel,2200.0,4200
+P011,Running Shoes,Apparel,3500.0,6500
+P012,Leather Wallet,Accessories,800.0,1500
+P013,Stainless Water Bottle,Home & Living,600.0,1200
+P014,Desk Lamp LED,Home & Living,1400.0,2500
+P015,Ceramic Coffee Mug,Home & Living,300.0,700
+P016,Air Purifier Mini,Home & Living,6000.0,9500
+P017,Backpack Casual,Accessories,2000.0,3800
+P018,Fitness Tracker,Electronics,3000.0,5000
+P019,Gaming Headset,Electronics,4500.0,7500
+P020,Sunglasses UV400,Apparel,900.0,1800

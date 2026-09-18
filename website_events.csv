@@ -1,0 +1,1051 @@
+event_id,customer_id,event_time,event_name,device,channel
+E0001,C0173,2025-05-03 09:27:49,product_view,Desktop,nan
+E0002,C0125,2025-01-02 19:21:44,product_view,Mobile,Instagram
+E0003,C0089,2025-02-28 11:18:15,product_view,Desktop,Facebook
+E0004,C0938,2025-03-23 17:24:11,begin_checkout,Mobile,Instagram
+E0005,C0200,2025-05-09 11:34:49,add_to_cart,Desktop,Google Search
+E0006,C0430,2025-01-20 14:36:00,begin_checkout,Tablet,Direct
+E0007,C0463,2025-05-09 15:23:39,add_to_cart,Desktop,Google Search
+E0008,C0618,2025-04-12 00:49:00,product_view,Mobile,Google Search
+E0009,C0074,2025.02.22 - 10:11,product_view,Mobile,Google Search
+E0010,C0234,2025-05-01 22:26:52,product_view,Tablet,Facebook
+E0011,C0961,2025-04-28 14:27:38,add_to_cart,Mobile,nan
+E0012,C0937,,begin_checkout,Mobile,Instagram
+E0013,C0806,2025-01-27 15:13:42,product_view,Desktop,Google Search
+E0014,C0021,2025-03-23 07:52:10,add_to_cart,Mobile,Direct
+E0015,C0338,11/06/2025 07:07 AM,product_view,Mobile,Google Search
+E0016,C0648,2025-06-24 11:52:54,product_view,Mobile,Instagram
+E0017,C0284,21/01/2025 08:56 AM,product_view,Mobile,Google Search
+E0018,C0938,2025.04.10 - 08:09,product_view,Mobile,Google Search
+E0019,C0654,2025-05-20 13:41:36,product_view,Desktop,Instagram
+E0020,C0075,2025.04.30 - 22:40,product_view,Mobile,Direct
+E0021,C0938,2025-01-23 20:40:58,product_view,Desktop,Google Search
+E0022,C0988,2025-02-24 21:30:32,product_view,Desktop,Email Marketing
+E0023,C0081,2025-01-23 03:20:13,add_to_cart,Desktop,Direct
+E0024,C0549,2025-06-02 09:14:49,product_view,Mobile,Facebook
+E0025,C0313,2025-01-21 15:13:29,nan,Desktop,Instagram
+E0026,C0405,2025-04-07 15:37:55,product_view,Mobile,Google Search
+E0027,C0186,2025-02-08 13:45:37,product_view,Mobile,Instagram
+E0028,C0596,29/04/2025 06:09 AM,product_view,Desktop,Email Marketing
+E0029,C0988,2025-02-08 18:53:58,product_view,Mobile,Instagram
+E0030,C0519,2025-06-01 01:33:04,begin_checkout,Tablet,Instagram
+E0031,C0086,2025-02-21 01:38:25,product_view,Mobile,Google Search
+E0032,C0640,2025-06-11 11:03:55,purchase,Desktop,Instagram
+E0033,C0351,2025-04-12 14:02:15,purchase,Mobile,Instagram
+E0034,C0883,2025-02-09 03:51:54,add_to_cart,Tablet,Google Search
+E0035,C0449,2025-03-11 12:02:11,add_to_cart,Mobile,Instagram
+E0036,C0199,2025-05-17 14:15:10,add_to_cart,Mobile,Instagram
+E0037,C0198,2025-03-21 13:36:08,product_view,Mobile,Google Search
+E0038,C0793,2025-02-27 08:26:10,add_to_cart,Mobile,Facebook
+E0039,C0274,2025-02-01 03:23:42,product_view,Mobile,Google Search
+E0040,C0791,2025-01-08 15:38:38,product_view,Desktop,Google Search
+E0041,C0213,2025-04-17 10:30:42,product_view,Mobile,Google Search
+E0042,C0332,2025-04-07 09:10:50,add_to_cart,Mobile,Google Search
+E0043,C0480,2025.06.26 - 18:34,purchase,Mobile,Email Marketing
+E0044,C0973,2025-02-10 07:55:26,product_view,Desktop,Instagram
+E0045,C0961,2025-05-14 15:15:45,begin_checkout,Desktop,Facebook
+E0046,C0214,2025.04.04 - 08:03,product_view,Desktop,Email Marketing
+E0047,C0370,2025-03-06 04:43:28,product_view,Desktop,Direct
+E0048,C0155,2025-02-15 12:52:25,product_view,Mobile,Instagram
+E0049,C0526,,product_view,Mobile,Instagram
+E0050,C0475,2025-01-03 11:24:59,product_view,Mobile,Facebook
+E0051,C0929,11/05/2025 10:02 AM,add_to_cart,Desktop,Instagram
+E0052,C0959,2025-01-18 06:46:59,begin_checkout,nan,Direct
+E0053,C0396,26/06/2025 02:22 AM,product_view,Mobile,Facebook
+E0054,C0507,2025.01.22 - 10:38,add_to_cart,Mobile,Facebook
+E0055,C0924,2025-06-12 04:27:50,begin_checkout,Mobile,Instagram
+E0056,C0832,2025-04-22 11:44:44,add_to_cart,Mobile,Facebook
+E0057,C0004,2025-05-10 21:52:05,add_to_cart,Mobile,Facebook
+E0058,C0330,2025-04-06 22:41:30,product_view,Mobile,Direct
+E0059,C0435,2025-01-29 23:03:49,purchase,Tablet,Instagram
+E0060,C0237,2025-01-18 11:48:56,add_to_cart,Mobile,Instagram
+E0061,C0206,2025-06-01 08:51:19,product_view,Tablet,Google Search
+E0062,C0039,2025-04-10 08:43:11,product_view,Desktop,Instagram
+E0063,C0664,15/01/2025 01:45 PM,begin_checkout,Desktop,Google Search
+E0064,C0271,2025-05-21 12:03:03,product_view,Desktop,Email Marketing
+E0065,C0054,2025-05-21 12:06:35,nan,Desktop,Google Search
+E0066,C0239,2025-01-20 16:02:52,product_view,Desktop,Direct
+E0067,C0827,2025-06-25 16:34:39,begin_checkout,Desktop,Instagram
+E0068,C0878,2025.02.19 - 16:32,product_view,Mobile,Instagram
+E0069,C0499,2025-05-06 02:49:37,add_to_cart,nan,Instagram
+E0070,C0429,2025-02-14 21:17:06,purchase,Desktop,Instagram
+E0071,C8888,2025-03-30 16:36:54,product_view,Desktop,Email Marketing
+E0072,C0207,2025-02-27 11:33:48,add_to_cart,Desktop,Instagram
+E0073,C0223,2025-02-21 06:54:42,product_view,Mobile,Google Search
+E0074,C0301,2025-04-01 03:41:21,product_view,Mobile,Google Search
+E0075,C0179,2025.01.10 - 17:23,product_view,Mobile,Email Marketing
+E0076,C0392,2025-01-20 09:08:35,add_to_cart,Mobile,Instagram
+E0077,C0940,07/06/2025 09:41 PM,product_view,Desktop,Instagram
+E0078,C0635,2025-02-03 22:10:09,product_view,Mobile,Instagram
+E0079,C0425,2025-06-19 17:47:23,product_view,Mobile,Google Search
+E0080,C0964,2025.01.08 - 15:49,add_to_cart,Mobile,Instagram
+E0081,C0050,2025-06-15 11:46:00,add_to_cart,Mobile,Direct
+E0082,C0217,26/02/2025 10:08 AM,product_view,Desktop,Google Search
+E0083,C0584,2025-03-11 22:43:19,product_view,Desktop,Facebook
+E0084,C0635,05/06/2025 03:42 PM,purchase,Mobile,Google Search
+E0085,C0041,2025-05-12 09:57:38,product_view,Desktop,Instagram
+E0086,C0416,2025-03-02 17:19:14,begin_checkout,Desktop,Google Search
+E0087,C0670,2025.03.24 - 17:16,purchase,Mobile,nan
+E0088,C0720,2025-05-24 09:50:48,begin_checkout,Mobile,Direct
+E0089,C0658,2025-01-23 12:08:17,product_view,nan,Email Marketing
+E0090,C0331,2025.01.19 - 10:43,begin_checkout,Mobile,Direct
+E0091,C0097,2025-06-15 07:05:36,begin_checkout,Mobile,Instagram
+E0092,C0441,2025-05-28 05:29:12,add_to_cart,Mobile,Instagram
+E0093,C0133,2025-06-22 21:03:41,product_view,Desktop,Instagram
+E0094,C0977,09/01/2025 09:51 PM,product_view,Desktop,Instagram
+E0095,C0490,2025-01-02 21:04:34,product_view,Desktop,Instagram
+E0096,C0328,2025-06-15 10:36:06,add_to_cart,Mobile,Google Search
+E0097,C0791,2025.01.27 - 20:57,add_to_cart,Tablet,Facebook
+E0098,C0514,2025-05-09 19:27:30,product_view,Mobile,Direct
+E0099,C0320,06/05/2025 04:09 PM,product_view,Mobile,Facebook
+E0100,C0838,2025-02-03 02:38:41,product_view,Mobile,Email Marketing
+E0101,C0894,05/03/2025 07:40 PM,add_to_cart,Mobile,Instagram
+E0102,C0694,2025.03.11 - 10:11,purchase,Desktop,Instagram
+E0103,C0049,23/06/2025 04:48 PM,product_view,Tablet,Facebook
+E0104,C0584,2025-03-26 23:53:50,product_view,Mobile,Instagram
+E0105,C0787,2025-05-01 17:49:50,product_view,Desktop,Instagram
+E0106,C0141,2025-02-22 02:24:44,add_to_cart,Desktop,Google Search
+E0107,C0236,20/06/2025 01:59 PM,begin_checkout,Tablet,Instagram
+E0108,C0910,2025.05.23 - 08:20,purchase,Mobile,Google Search
+E0109,C0021,2025-01-19 01:11:04,product_view,Mobile,Google Search
+E0110,C0777,2025-03-14 08:32:42,purchase,Mobile,Google Search
+E0111,C0489,2025-06-08 06:00:31,product_view,Desktop,Facebook
+E0112,C0461,2025-03-08 13:12:13,add_to_cart,Mobile,Google Search
+E0113,C0008,2025-02-05 12:13:59,product_view,Mobile,Instagram
+E0114,C0845,2025-01-23 02:29:44,purchase,Mobile,Instagram
+E0115,C0371,2025-03-19 19:45:30,add_to_cart,Mobile,Google Search
+E0116,C0558,2025-03-19 17:18:04,add_to_cart,Desktop,Facebook
+E0117,C0699,2025-03-30 15:37:28,begin_checkout,Desktop,Facebook
+E0118,C0725,2025-02-22 18:50:02,product_view,Desktop,Facebook
+E0119,C0986,2025-06-12 06:40:59,product_view,Desktop,Instagram
+E0120,C0548,16/03/2025 09:33 PM,purchase,Mobile,Google Search
+E0121,C0413,2025-05-14 23:10:42,product_view,Mobile,Google Search
+E0122,C0984,2025-06-15 04:25:00,product_view,Mobile,Google Search
+E0123,C0662,2025-04-03 20:46:59,product_view,Mobile,Google Search
+E0124,C0308,2025-06-05 07:47:59,add_to_cart,Mobile,Google Search
+E0125,C0131,2025-03-23 21:27:00,product_view,Desktop,Google Search
+E0126,C0869,2025-05-06 23:50:37,product_view,Desktop,Facebook
+E0127,C0374,2025-06-22 01:38:11,product_view,Desktop,Instagram
+E0128,C0681,2025-06-04 17:52:03,product_view,Mobile,Facebook
+E0129,C0486,,purchase,Mobile,Instagram
+E0130,C0206,2025-01-22 22:52:54,nan,Mobile,Instagram
+E0131,C0621,2025-01-26 17:32:55,add_to_cart,Desktop,nan
+E0132,C0063,2025-05-16 04:23:12,product_view,Mobile,nan
+E0133,C0427,2025-05-22 01:19:16,purchase,Mobile,Instagram
+E0134,C0564,2025-01-12 09:18:43,add_to_cart,Mobile,Google Search
+E0135,C0450,2025-06-13 22:57:19,product_view,Mobile,Instagram
+E0136,C0772,2025-01-31 22:50:11,purchase,Mobile,Google Search
+E0137,C0854,,begin_checkout,Desktop,Direct
+E0138,C0796,2025-03-22 18:49:46,begin_checkout,Desktop,nan
+E0139,C0041,26/06/2025 10:37 PM,add_to_cart,Mobile,Facebook
+E0140,C0201,2025-04-25 17:05:45,product_view,Desktop,Google Search
+E0141,C0554,2025-04-04 17:25:40,product_view,Desktop,Google Search
+E0142,C0964,05/06/2025 06:49 PM,add_to_cart,Desktop,Instagram
+E0143,C0861,2025-04-21 11:28:06,product_view,Mobile,Email Marketing
+E0144,C0869,2025-05-12 17:32:28,product_view,Mobile,Direct
+E0145,C0313,27/03/2025 01:59 AM,begin_checkout,Desktop,Google Search
+E0146,C0443,2025.02.05 - 04:44,begin_checkout,Mobile,Instagram
+E0147,C0486,2025-04-29 16:58:20,product_view,Tablet,Instagram
+E0148,C0163,2025-03-15 17:46:00,begin_checkout,Desktop,Instagram
+E0149,C0033,01/06/2025 07:10 AM,begin_checkout,Desktop,Direct
+E0150,C0977,11/03/2025 03:11 PM,add_to_cart,Mobile,Google Search
+E0151,C0249,2025-04-29 17:08:12,product_view,Mobile,Instagram
+E0152,C0248,2025-01-06 14:17:36,product_view,Mobile,Google Search
+E0153,C0086,2025-06-17 11:53:40,product_view,Mobile,Direct
+E0154,C0958,2025-05-13 21:50:02,product_view,Mobile,Instagram
+E0155,C0598,2025-06-20 20:51:55,product_view,Mobile,Direct
+E0156,C0688,12/06/2025 07:51 PM,product_view,Mobile,Email Marketing
+E0157,C0940,22/05/2025 05:21 AM,product_view,nan,nan
+E0158,C0357,2025-06-23 03:54:57,purchase,Mobile,Google Search
+E0159,C0641,2025-01-26 08:53:52,product_view,Tablet,Instagram
+E0160,C0040,2025-04-04 19:18:51,begin_checkout,Tablet,Google Search
+E0161,C0193,2025-06-28 17:21:55,add_to_cart,Mobile,Google Search
+E0162,C0857,2025-04-05 18:49:01,product_view,Desktop,Instagram
+E0163,C0791,2025-01-22 22:19:36,purchase,Mobile,Google Search
+E0164,C0362,2025-06-22 08:29:15,add_to_cart,Desktop,Google Search
+E0165,C0389,2025.03.21 - 20:43,product_view,Mobile,Direct
+E0166,C0551,2025-03-27 13:45:15,begin_checkout,Mobile,Instagram
+E0167,C0001,2025-01-09 22:14:47,product_view,Mobile,Facebook
+E0168,C0249,2025-01-13 07:10:02,add_to_cart,Mobile,Facebook
+E0169,C0215,,product_view,Mobile,Facebook
+E0170,C0259,2025-05-08 04:23:53,begin_checkout,Mobile,Direct
+E0171,C0831,03/03/2025 12:27 AM,product_view,Mobile,Facebook
+E0172,C0289,2025-01-03 09:36:09,add_to_cart,Mobile,Email Marketing
+E0173,C0198,2025-05-17 19:31:32,product_view,Mobile,Google Search
+E0174,C0520,2025-06-18 14:43:18,add_to_cart,Mobile,Google Search
+E0175,C0893,12/05/2025 03:22 PM,begin_checkout,Mobile,Instagram
+E0176,C0249,2025.04.12 - 21:49,product_view,Mobile,Instagram
+E0177,C0081,2025-05-30 00:56:35,add_to_cart,Desktop,Instagram
+E0178,C0368,2025-05-25 09:32:17,product_view,Mobile,Instagram
+E0179,C0771,22/04/2025 11:22 PM,purchase,Desktop,Instagram
+E0180,C0568,2025-05-21 13:01:45,add_to_cart,Mobile,Instagram
+E0181,C0843,2025-04-20 17:08:52,begin_checkout,Desktop,Instagram
+E0182,C0990,2025-02-13 11:50:43,begin_checkout,Mobile,Email Marketing
+E0183,C0818,2025-05-11 01:42:03,product_view,Mobile,Instagram
+E0184,C0623,2025-06-19 13:08:38,product_view,Mobile,Facebook
+E0185,C0509,2025-03-07 16:35:42,product_view,Mobile,Instagram
+E0186,C0042,,begin_checkout,Mobile,Email Marketing
+E0187,C9901,2025-04-12 13:50:14,product_view,Mobile,Email Marketing
+E0188,C0396,2025-05-14 15:26:18,add_to_cart,nan,Facebook
+E0189,C0157,2025-05-17 00:56:25,begin_checkout,Mobile,Facebook
+E0190,C0688,2025-05-01 01:12:09,product_view,Mobile,Instagram
+E0191,C0294,2025-01-19 11:51:37,add_to_cart,Desktop,nan
+E0192,C0604,2025-03-26 01:13:02,product_view,Mobile,Direct
+E0193,C0605,2025-05-09 11:48:26,product_view,Desktop,Email Marketing
+E0194,C0460,2025-05-22 02:26:37,begin_checkout,Mobile,Facebook
+E0195,C0862,2025.02.18 - 06:27,product_view,Desktop,Google Search
+E0196,C0274,2025-04-04 13:57:18,product_view,Mobile,Email Marketing
+E0197,C0463,2025-03-09 03:18:33,begin_checkout,Desktop,Instagram
+E0198,C0555,2025-05-09 21:06:56,product_view,Desktop,Google Search
+E0199,C0685,2025-05-12 07:45:56,nan,Mobile,Instagram
+E0200,C0809,2025-05-05 13:09:41,nan,Mobile,Email Marketing
+E0201,C0408,16/03/2025 05:39 PM,product_view,Mobile,Instagram
+E0202,C0667,2025-01-29 20:46:47,product_view,nan,Instagram
+E0203,C0156,,add_to_cart,Mobile,Google Search
+E0204,C0962,2025-06-10 11:28:45,product_view,Mobile,Facebook
+E0205,C0395,2025-04-19 10:04:21,product_view,Mobile,Facebook
+E0206,C0753,2025-06-23 05:18:34,add_to_cart,Mobile,Instagram
+E0207,C0021,2025-04-30 00:23:10,product_view,Mobile,Instagram
+E0208,C0212,2025-01-11 14:17:47,purchase,nan,Facebook
+E0209,C0503,2025-01-03 06:16:08,product_view,Mobile,nan
+E0210,C0906,2025-05-05 22:27:19,product_view,Desktop,Direct
+E0211,C0544,2025-01-31 11:20:04,product_view,Mobile,Google Search
+E0212,C0959,2025-04-09 04:06:56,nan,Mobile,Email Marketing
+E0213,C0499,2025-06-14 19:54:25,add_to_cart,Mobile,Google Search
+E0214,C0506,2025-04-02 03:02:41,begin_checkout,Mobile,Google Search
+E0215,C0124,2025-06-15 10:00:26,product_view,nan,Google Search
+E0216,C0828,07/04/2025 06:45 AM,product_view,Desktop,Google Search
+E0217,C0255,2025-06-18 19:46:13,product_view,Mobile,Facebook
+E0218,C0928,2025-02-02 02:50:16,add_to_cart,Mobile,Google Search
+E0219,C0939,2025-01-15 12:53:50,add_to_cart,Mobile,Instagram
+E0220,C0973,2025-05-26 21:55:03,add_to_cart,Tablet,Instagram
+E0221,C0537,2025-04-06 11:14:44,product_view,Desktop,Instagram
+E0222,C0699,2025-03-04 06:15:42,purchase,Desktop,Google Search
+E0223,C0803,16/02/2025 06:38 PM,product_view,Mobile,Instagram
+E0224,C0136,2025-03-06 06:04:54,nan,Mobile,Instagram
+E0225,C0620,2025.02.24 - 00:18,product_view,Mobile,Facebook
+E0226,C0036,10/01/2025 06:39 PM,add_to_cart,Mobile,Facebook
+E0227,C0513,2025-04-09 10:27:42,product_view,Mobile,Facebook
+E0228,C0160,2025-02-13 05:53:15,product_view,Mobile,Google Search
+E0229,C0189,2025-04-17 21:29:43,add_to_cart,Mobile,Email Marketing
+E0230,C0377,05/05/2025 10:04 PM,product_view,Tablet,Email Marketing
+E0231,C0446,2025-03-15 12:34:44,product_view,Desktop,Direct
+E0232,C0643,2025-03-20 07:24:25,begin_checkout,Mobile,Facebook
+E0233,C0077,08/06/2025 03:58 PM,add_to_cart,Mobile,Instagram
+E0234,C0520,2025-02-15 15:10:45,begin_checkout,Mobile,nan
+E0235,C0189,2025-01-16 07:22:37,product_view,Desktop,Instagram
+E0236,C0592,2025-03-31 03:32:09,add_to_cart,Desktop,Instagram
+E0237,C0658,2025-03-28 06:04:12,add_to_cart,Desktop,Google Search
+E0238,C0574,2025-06-05 14:08:53,product_view,Desktop,Instagram
+E0239,C0762,2025-04-22 06:32:10,add_to_cart,Mobile,nan
+E0240,C0346,2025-03-29 00:17:26,product_view,Mobile,Google Search
+E0241,C0789,2025-01-18 02:12:08,product_view,Mobile,Google Search
+E0242,C0447,2025-06-16 07:59:42,product_view,Mobile,Facebook
+E0243,C0500,2025-04-07 18:58:26,product_view,Desktop,Google Search
+E0244,C0669,2025-03-28 19:29:18,add_to_cart,Mobile,Instagram
+E0245,C0019,2025-03-03 08:57:12,add_to_cart,Mobile,Facebook
+E0246,C0675,2025-01-24 01:12:50,purchase,Mobile,Facebook
+E0247,C0638,2025-04-07 13:55:40,begin_checkout,nan,Google Search
+E0248,C0320,2025-05-25 17:03:55,product_view,Mobile,Facebook
+E0249,C0089,2025-05-07 20:56:20,purchase,Desktop,Instagram
+E0250,C0094,2025.01.04 - 10:48,purchase,Mobile,Instagram
+E0251,C0952,2025-01-20 22:21:09,product_view,Mobile,Instagram
+E0252,C0711,2025-03-20 08:09:54,add_to_cart,Mobile,Google Search
+E0253,C0132,2025-03-22 01:38:12,nan,Desktop,Direct
+E0254,C0368,2025-01-07 22:59:20,add_to_cart,Mobile,Direct
+E0255,C0611,2025-04-19 04:25:07,purchase,Desktop,Google Search
+E0256,C0862,2025-04-17 14:59:09,product_view,Mobile,Google Search
+E0257,C0046,01/01/2025 12:47 AM,product_view,Mobile,Facebook
+E0258,C0244,10/06/2025 09:00 AM,product_view,Tablet,Instagram
+E0259,C0918,2025-01-18 15:36:14,add_to_cart,Mobile,Instagram
+E0260,C0010,03/06/2025 05:58 PM,begin_checkout,Mobile,nan
+E0261,C0208,2025-04-28 07:47:28,nan,Desktop,Facebook
+E0262,C0989,2025-05-01 05:03:26,product_view,Mobile,nan
+E0263,C0633,2025.05.04 - 19:08,product_view,Desktop,Google Search
+E0264,C0270,2025-03-01 03:31:45,begin_checkout,Mobile,Facebook
+E0265,C0070,2025-06-22 20:13:02,add_to_cart,Mobile,Instagram
+E0266,C0030,09/04/2025 05:01 PM,product_view,Mobile,Instagram
+E0267,C0253,2025.04.20 - 04:39,add_to_cart,Desktop,Google Search
+E0268,C0909,10/02/2025 03:59 AM,begin_checkout,Mobile,Instagram
+E0269,C0429,2025-05-08 02:38:18,begin_checkout,Desktop,Instagram
+E0270,C0743,2025-05-11 09:17:50,add_to_cart,Tablet,Instagram
+E0271,C0947,2025.03.30 - 14:04,product_view,Mobile,Instagram
+E0272,C0421,2025.03.08 - 04:29,nan,Mobile,Facebook
+E0273,C0198,2025-03-12 13:17:55,add_to_cart,Mobile,Google Search
+E0274,C0534,2025-06-10 06:13:40,product_view,Mobile,Instagram
+E0275,C0937,2025-01-11 12:56:26,product_view,Mobile,Instagram
+E0276,C0830,08/06/2025 01:34 PM,begin_checkout,Desktop,Instagram
+E0277,C0068,2025-02-13 06:52:25,product_view,nan,Facebook
+E0278,C0714,2025-06-13 22:48:16,product_view,Tablet,Instagram
+E0279,C0590,30/03/2025 05:56 AM,add_to_cart,Desktop,Facebook
+E0280,C0936,2025-03-06 11:06:16,product_view,Tablet,Instagram
+E0281,C0127,2025-04-19 18:29:31,add_to_cart,Mobile,Instagram
+E0282,C0551,2025-05-30 00:25:10,product_view,Desktop,Email Marketing
+E0283,C0907,2025.05.01 - 08:16,add_to_cart,Tablet,Facebook
+E0284,C0423,2025-04-27 11:58:30,product_view,Mobile,Instagram
+E0285,C0497,2025-04-02 20:57:45,product_view,nan,Direct
+E0286,C0073,20/05/2025 03:52 AM,product_view,Mobile,Google Search
+E0287,C0287,08/05/2025 02:37 PM,purchase,Desktop,Direct
+E0288,C0335,2025-03-12 13:04:31,purchase,Desktop,Google Search
+E0289,C0975,2025-05-20 00:23:55,product_view,nan,Facebook
+E0290,C0292,2025-03-29 20:57:14,begin_checkout,Mobile,nan
+E0291,C0476,2025-01-23 03:23:14,add_to_cart,Desktop,Instagram
+E0292,C0693,2025-01-19 22:05:21,nan,Mobile,Facebook
+E0293,C0168,2025-05-28 10:41:14,product_view,Mobile,Google Search
+E0294,C0502,2025-05-08 22:44:39,add_to_cart,Desktop,Instagram
+E0295,C0762,2025-02-13 01:24:59,product_view,Mobile,Instagram
+E0296,C0894,2025-01-01 10:14:18,product_view,Desktop,Instagram
+E0297,C0646,08/03/2025 06:50 AM,nan,Mobile,Facebook
+E0298,C0690,2025-03-10 23:04:03,add_to_cart,Mobile,Google Search
+E0299,C0131,2025-06-11 03:32:21,product_view,Desktop,Google Search
+E0300,C0976,2025-05-04 01:04:30,product_view,Mobile,Instagram
+E0301,C0137,2025.06.05 - 07:51,add_to_cart,Mobile,Google Search
+E0302,C0799,2025-02-26 16:44:31,add_to_cart,nan,Email Marketing
+E0303,C0274,2025-04-17 08:25:23,product_view,Mobile,Google Search
+E0304,C0963,2025-04-12 08:37:36,purchase,Desktop,Facebook
+E0305,C0743,2025-03-14 14:27:19,product_view,Mobile,Facebook
+E0306,C0778,17/05/2025 08:00 AM,product_view,Mobile,Facebook
+E0307,C0226,2025-01-21 15:29:51,purchase,Mobile,Google Search
+E0308,C0457,2025-01-09 21:20:29,product_view,Mobile,Direct
+E0309,C0637,2025-06-24 03:45:01,product_view,Mobile,Google Search
+E0310,C0794,2025-02-01 21:01:10,add_to_cart,Mobile,Direct
+E0311,C0108,,begin_checkout,Mobile,Instagram
+E0312,C0993,2025-01-28 06:32:26,product_view,Mobile,Instagram
+E0313,C0918,09/06/2025 02:02 PM,purchase,Mobile,Instagram
+E0314,C0279,2025-05-20 04:47:29,begin_checkout,Mobile,Direct
+E0315,C0849,25/05/2025 04:21 AM,product_view,Mobile,Google Search
+E0316,C0535,2025-05-21 02:42:32,add_to_cart,Tablet,Instagram
+E0317,C0477,21/03/2025 11:03 AM,product_view,Desktop,Instagram
+E0318,C0325,2025-01-21 18:28:36,product_view,Desktop,Email Marketing
+E0319,C0599,19/02/2025 09:04 AM,begin_checkout,Mobile,Direct
+E0320,C0753,2025-04-29 14:46:32,nan,Tablet,Google Search
+E0321,C0424,2025-02-08 01:03:36,product_view,Desktop,Facebook
+E0322,C0649,2025-02-06 10:00:56,product_view,Desktop,Google Search
+E0323,C0721,2025-01-24 10:42:58,add_to_cart,Mobile,Google Search
+E0324,C0734,2025-06-15 11:30:49,product_view,nan,Email Marketing
+E0325,C0054,2025.03.18 - 07:01,product_view,Desktop,Instagram
+E0326,C0887,2025-02-11 20:43:11,product_view,Desktop,Google Search
+E0327,C0473,2025-03-30 17:59:19,add_to_cart,Mobile,Google Search
+E0328,C0271,2025-06-10 02:42:02,product_view,Mobile,Google Search
+E0329,C0250,2025-06-01 17:40:58,product_view,Mobile,Google Search
+E0330,C0498,2025-02-07 00:09:41,begin_checkout,Mobile,Google Search
+E0331,C0915,20/05/2025 04:28 AM,begin_checkout,Desktop,Instagram
+E0332,C0391,2025-03-07 14:53:04,add_to_cart,Mobile,Google Search
+E0333,C0773,2025-01-21 22:13:29,product_view,Mobile,Instagram
+E0334,C0100,2025-05-28 00:34:18,add_to_cart,Mobile,Instagram
+E0335,C0491,2025-03-22 11:34:18,product_view,Mobile,Instagram
+E0336,C7777,2025-01-10 00:42:26,product_view,Mobile,Facebook
+E0337,C0795,29/06/2025 10:23 PM,begin_checkout,Desktop,Google Search
+E0338,C0218,2025-05-03 23:06:52,product_view,Mobile,Facebook
+E0339,C0517,2025-06-12 14:52:31,product_view,Mobile,Facebook
+E0340,C0241,2025-05-11 12:24:27,product_view,Mobile,Facebook
+E0341,C0423,2025-04-25 08:03:31,product_view,Mobile,Google Search
+E0342,C0805,2025-01-24 22:14:34,product_view,Mobile,Google Search
+E0343,C0796,30/05/2025 10:27 PM,nan,Desktop,Google Search
+E0344,C0236,2025-06-23 03:52:35,product_view,Desktop,Facebook
+E0345,C0951,2025-03-29 11:30:12,product_view,Desktop,Google Search
+E0346,C0611,2025-03-30 19:34:55,product_view,Desktop,Direct
+E0347,C0392,2025-05-08 20:37:50,purchase,Mobile,Direct
+E0348,C0518,2025-04-25 10:24:44,add_to_cart,nan,Instagram
+E0349,C0624,2025-04-08 21:43:51,product_view,Desktop,Instagram
+E0350,C0578,2025-01-27 03:26:57,purchase,Tablet,Facebook
+E0351,C0502,2025-04-07 20:42:35,product_view,Mobile,Instagram
+E0352,C0521,,product_view,Tablet,Instagram
+E0353,C0182,2025-04-13 23:40:37,product_view,Desktop,Direct
+E0354,C0838,2025-05-23 23:00:20,product_view,Desktop,Instagram
+E0355,C0559,2025-01-10 10:21:36,product_view,Mobile,Email Marketing
+E0356,C0136,18/04/2025 10:13 AM,add_to_cart,Desktop,Facebook
+E0357,C0790,2025-03-26 01:02:33,product_view,nan,Facebook
+E0358,C0962,2025-06-12 21:09:59,add_to_cart,Desktop,Instagram
+E0359,C0977,2025-04-24 14:51:36,product_view,Mobile,Instagram
+E0360,C0381,2025-04-04 18:37:33,product_view,Tablet,Google Search
+E0361,C0140,2025.06.29 - 11:52,product_view,Mobile,Instagram
+E0362,C0535,09/04/2025 05:00 PM,purchase,Desktop,Instagram
+E0363,C0117,2025-06-01 16:06:12,product_view,Mobile,Instagram
+E0364,C0963,2025.06.28 - 20:55,add_to_cart,Tablet,Instagram
+E0365,C0190,2025-06-26 17:45:11,product_view,Mobile,Instagram
+E0366,C0261,2025-02-04 09:49:23,product_view,Mobile,Facebook
+E0367,C0420,2025-05-15 08:06:15,product_view,Desktop,Instagram
+E0368,C0396,2025.04.23 - 08:15,product_view,Desktop,Instagram
+E0369,C0820,2025-02-03 17:16:08,product_view,Desktop,Facebook
+E0370,C0471,2025-05-22 20:21:06,product_view,Tablet,nan
+E0371,C0177,2025-06-08 07:18:47,begin_checkout,Tablet,Google Search
+E0372,C0276,2025-01-25 22:18:08,product_view,Mobile,Instagram
+E0373,C0525,2025-01-21 02:35:47,add_to_cart,Mobile,Google Search
+E0374,C0153,2025-03-17 05:26:27,product_view,Mobile,Email Marketing
+E0375,C0631,2025-05-08 16:16:25,add_to_cart,Mobile,Facebook
+E0376,C0584,2025.04.27 - 14:44,add_to_cart,Mobile,Facebook
+E0377,C0737,28/04/2025 04:54 PM,product_view,Tablet,Instagram
+E0378,C0967,2025.06.21 - 09:39,product_view,Desktop,Google Search
+E0379,C0941,2025-03-04 11:54:02,begin_checkout,Mobile,Instagram
+E0380,C0976,2025-04-08 21:19:24,purchase,Mobile,Facebook
+E0381,C0253,2025-06-21 03:34:39,product_view,Desktop,Facebook
+E0382,C0136,2025-03-16 16:39:28,product_view,Mobile,nan
+E0383,C0312,23/03/2025 07:07 AM,purchase,Mobile,Instagram
+E0384,C0923,2025-04-29 06:06:58,product_view,Tablet,Instagram
+E0385,C9999,2025-06-27 20:27:03,add_to_cart,Tablet,Google Search
+E0386,C0886,2025-05-15 11:21:22,product_view,Mobile,Facebook
+E0387,C0114,2025-05-29 00:55:24,product_view,Tablet,Direct
+E0388,C0977,2025-02-18 04:52:35,add_to_cart,Mobile,Instagram
+E0389,C0437,2025-02-23 03:02:57,add_to_cart,Desktop,Instagram
+E0390,C0010,2025-03-19 06:12:30,product_view,Mobile,Google Search
+E0391,C0457,2025-03-08 13:50:16,product_view,Mobile,Google Search
+E0392,C0048,2025.02.27 - 02:56,begin_checkout,Tablet,Direct
+E0393,C0561,2025-03-29 22:24:50,add_to_cart,Mobile,Google Search
+E0394,C0350,2025-06-06 06:37:30,product_view,Desktop,Direct
+E0395,C0489,26/01/2025 09:33 PM,add_to_cart,Mobile,Google Search
+E0396,C0633,2025-01-27 19:57:55,add_to_cart,Mobile,Facebook
+E0397,C0896,,begin_checkout,Mobile,Google Search
+E0398,C0683,2025-04-27 23:58:02,add_to_cart,Mobile,Direct
+E0399,C0448,2025-05-16 22:18:10,product_view,Desktop,Instagram
+E0400,C0845,2025-06-22 03:05:42,add_to_cart,Mobile,Google Search
+E0401,C0934,2025.05.26 - 07:55,add_to_cart,Desktop,Instagram
+E0402,C0124,2025-04-10 11:27:57,product_view,Desktop,Google Search
+E0403,C0549,2025-02-28 01:02:10,product_view,Desktop,Instagram
+E0404,C0294,2025-06-13 17:00:41,product_view,Mobile,Instagram
+E0405,C0049,2025-05-17 05:12:01,add_to_cart,Tablet,nan
+E0406,C0690,2025-04-17 08:57:39,product_view,Mobile,Instagram
+E0407,C0890,2025-06-17 03:11:16,add_to_cart,Mobile,Facebook
+E0408,C0168,2025-03-02 22:55:49,purchase,Mobile,nan
+E0409,C0838,2025-05-19 05:34:29,begin_checkout,Mobile,Instagram
+E0410,C0880,2025-05-24 01:49:25,purchase,Mobile,Facebook
+E0411,C0943,2025.04.18 - 11:52,nan,Desktop,Instagram
+E0412,C0274,03/05/2025 08:03 PM,product_view,Mobile,Instagram
+E0413,C0932,2025-02-12 04:53:23,add_to_cart,Mobile,Google Search
+E0414,C0331,09/02/2025 12:12 AM,product_view,Desktop,Email Marketing
+E0415,C0570,2025.02.10 - 17:19,begin_checkout,Mobile,Instagram
+E0416,C0053,2025-05-02 04:49:54,product_view,Mobile,Google Search
+E0417,C0046,2025-05-19 17:16:23,nan,Mobile,Google Search
+E0418,C0743,2025.02.26 - 10:11,add_to_cart,Desktop,Direct
+E0419,C0459,2025-05-14 07:50:26,begin_checkout,Mobile,Instagram
+E0420,C0265,2025-03-09 01:11:04,product_view,Mobile,Facebook
+E0421,C0197,2025-06-28 21:03:53,product_view,Mobile,Facebook
+E0422,C0691,2025-05-11 13:29:19,begin_checkout,Desktop,Facebook
+E0423,C0001,26/01/2025 06:17 PM,product_view,Desktop,nan
+E0424,C0831,2025-05-18 22:41:14,begin_checkout,Desktop,Direct
+E0425,C0082,2025-05-07 05:37:19,product_view,Mobile,Instagram
+E0426,C0198,2025-02-04 12:40:02,add_to_cart,Mobile,Google Search
+E0427,C0399,2025.04.08 - 20:18,product_view,Mobile,Google Search
+E0428,C0500,2025-04-16 08:11:36,add_to_cart,Mobile,Instagram
+E0429,C0366,2025-05-15 19:43:41,add_to_cart,Mobile,Google Search
+E0430,C0331,2025-05-04 16:03:50,product_view,Mobile,Google Search
+E0431,C0994,2025-03-04 14:24:22,product_view,Mobile,Google Search
+E0432,C0662,2025-05-18 22:29:01,product_view,Desktop,nan
+E0433,C0025,2025-01-23 09:49:38,add_to_cart,Mobile,Instagram
+E0434,C0444,2025-05-28 17:28:06,add_to_cart,Desktop,Email Marketing
+E0435,C0903,2025-03-10 09:32:49,begin_checkout,Mobile,Google Search
+E0436,C0311,20/04/2025 04:24 AM,add_to_cart,Mobile,Facebook
+E0437,C0098,2025-04-04 06:41:09,product_view,Mobile,Direct
+E0438,C0782,2025-04-24 04:04:26,product_view,Mobile,Google Search
+E0439,C0625,2025-04-21 19:22:00,product_view,Mobile,Google Search
+E0440,C0588,2025-05-10 13:10:41,product_view,Mobile,Google Search
+E0441,C0056,2025-05-18 21:24:57,nan,Tablet,Google Search
+E0442,C0145,23/03/2025 01:35 AM,purchase,Desktop,Email Marketing
+E0443,C0642,2025-05-11 22:12:08,product_view,Mobile,Direct
+E0444,C0215,26/05/2025 05:19 AM,add_to_cart,Desktop,Instagram
+E0445,C0520,23/06/2025 01:43 PM,begin_checkout,Desktop,Instagram
+E0446,C0562,2025-06-13 09:09:30,product_view,Desktop,Google Search
+E0447,C0293,14/04/2025 04:10 PM,product_view,Desktop,Instagram
+E0448,C0978,2025-02-25 12:31:15,product_view,Mobile,Facebook
+E0449,C0869,2025-06-20 09:20:25,add_to_cart,Mobile,Instagram
+E0450,C0745,2025.06.14 - 12:42,nan,Mobile,Google Search
+E0451,C0081,2025-03-24 00:27:47,add_to_cart,Mobile,Instagram
+E0452,C0110,2025-06-06 22:58:23,product_view,Mobile,Instagram
+E0453,C0509,2025-01-03 11:30:53,product_view,Mobile,Facebook
+E0454,C0166,2025-04-12 12:05:53,begin_checkout,Tablet,Google Search
+E0455,C8888,21/01/2025 04:11 PM,begin_checkout,Tablet,nan
+E0456,C0164,2025-01-05 21:46:36,add_to_cart,Desktop,Direct
+E0457,C0503,2025-03-15 22:59:03,add_to_cart,Desktop,Google Search
+E0458,C0376,2025-01-29 05:16:17,product_view,Tablet,Instagram
+E0459,C0660,2025-01-11 07:18:02,begin_checkout,Mobile,Direct
+E0460,C0134,11/05/2025 03:36 AM,begin_checkout,Mobile,Email Marketing
+E0461,C0444,2025-01-11 23:47:50,product_view,Mobile,Direct
+E0462,C0284,2025-02-08 19:36:46,add_to_cart,Desktop,Instagram
+E0463,C0916,2025-02-21 20:12:32,product_view,Mobile,nan
+E0464,C0042,2025-05-26 16:06:56,product_view,Desktop,Instagram
+E0465,C0942,2025-06-02 12:50:43,product_view,Mobile,Facebook
+E0466,C0859,2025-02-01 06:00:47,product_view,Mobile,Email Marketing
+E0467,C0307,2025-02-25 15:43:30,product_view,Desktop,Instagram
+E0468,C0814,2025-05-13 16:49:47,product_view,Mobile,Email Marketing
+E0469,C0033,2025-02-18 15:41:56,add_to_cart,Mobile,Instagram
+E0470,C0997,2025-01-29 10:24:20,product_view,Mobile,nan
+E0471,C0543,2025-06-12 23:48:10,product_view,Mobile,Instagram
+E0472,C0313,2025-01-13 01:05:38,product_view,Desktop,nan
+E0473,C0374,2025-05-15 02:24:18,add_to_cart,Mobile,Instagram
+E0474,C0069,2025-06-02 07:22:13,product_view,Mobile,Facebook
+E0475,C7777,2025-02-27 07:27:17,product_view,Mobile,Google Search
+E0476,C0041,2025-02-09 14:42:47,purchase,Desktop,Google Search
+E0477,C0676,,begin_checkout,Mobile,Instagram
+E0478,C0457,2025-04-16 02:02:41,begin_checkout,Desktop,Facebook
+E0479,C0979,,add_to_cart,Desktop,Instagram
+E0480,C0254,2025-03-11 15:34:52,product_view,Mobile,Google Search
+E0481,C0549,2025-06-08 01:38:13,add_to_cart,Tablet,Instagram
+E0482,C0498,2025-03-29 21:14:35,product_view,Desktop,nan
+E0483,C0725,2025-01-20 21:35:29,product_view,Mobile,Instagram
+E0484,C0071,2025-04-30 15:16:30,product_view,Mobile,Instagram
+E0485,C0200,2025-06-18 13:20:16,begin_checkout,Tablet,Instagram
+E0486,C0222,2025-05-12 04:10:45,product_view,Desktop,Google Search
+E0487,C0761,2025-05-24 14:17:05,purchase,Mobile,Instagram
+E0488,C0195,20/04/2025 02:34 AM,purchase,Mobile,Google Search
+E0489,C0592,2025-06-17 22:27:12,product_view,Desktop,Direct
+E0490,C0222,2025-02-13 13:20:53,begin_checkout,Desktop,Facebook
+E0491,C0889,2025-05-25 03:53:38,add_to_cart,Desktop,Google Search
+E0492,C0972,2025-05-06 15:47:42,begin_checkout,Mobile,Instagram
+E0493,C0535,2025-04-19 23:42:37,product_view,Desktop,Facebook
+E0494,C0364,17/03/2025 12:20 PM,begin_checkout,Mobile,Instagram
+E0495,C0242,2025-02-16 03:16:30,product_view,Mobile,Facebook
+E0496,C0052,2025-04-10 05:04:13,purchase,Desktop,Instagram
+E0497,C0277,2025-06-02 07:08:10,add_to_cart,nan,Google Search
+E0498,C0675,2025-06-04 17:30:50,product_view,Mobile,Google Search
+E0499,C0551,2025-06-05 02:46:45,begin_checkout,Mobile,Direct
+E0500,C0974,2025.05.16 - 04:11,begin_checkout,Desktop,Instagram
+E0501,C0409,2025-02-25 20:29:35,add_to_cart,Mobile,Google Search
+E0502,C0716,2025-05-15 13:18:58,product_view,Desktop,Instagram
+E0503,C0505,2025-05-10 00:45:52,product_view,Desktop,Facebook
+E0504,C0529,,nan,Mobile,Email Marketing
+E0505,C0277,2025-06-29 21:43:55,begin_checkout,nan,Google Search
+E0506,C0470,2025-03-16 02:18:14,begin_checkout,Desktop,Google Search
+E0507,C0486,,product_view,Desktop,Email Marketing
+E0508,C0729,2025-03-22 21:20:21,product_view,Desktop,Google Search
+E0509,C0970,,add_to_cart,Desktop,Google Search
+E0510,C0340,2025-05-14 01:01:28,begin_checkout,Mobile,Google Search
+E0511,C0044,2025-03-02 17:04:23,product_view,Mobile,Facebook
+E0512,C0512,2025-04-18 05:05:13,begin_checkout,Desktop,Instagram
+E0513,C0562,2025-01-11 10:44:11,add_to_cart,Mobile,Direct
+E0514,C0174,2025-01-03 12:25:20,product_view,Mobile,Google Search
+E0515,C0784,2025-05-25 09:45:11,product_view,Desktop,Instagram
+E0516,C9901,,product_view,Desktop,Facebook
+E0517,C0976,2025.02.09 - 10:27,add_to_cart,Mobile,Google Search
+E0518,C0204,2025-05-01 12:01:37,product_view,Desktop,Instagram
+E0519,C0903,2025-06-18 17:08:03,product_view,Desktop,Facebook
+E0520,C0727,2025-06-01 15:22:25,begin_checkout,Mobile,Direct
+E0521,C0468,2025-06-17 01:57:47,product_view,Desktop,Direct
+E0522,C0558,2025-06-18 23:02:39,product_view,Mobile,nan
+E0523,C0876,2025-03-28 00:49:37,product_view,Mobile,Direct
+E0524,C0495,2025-06-11 04:00:12,add_to_cart,Mobile,Instagram
+E0525,C0385,2025-02-13 19:07:55,begin_checkout,Mobile,Google Search
+E0526,C0509,2025-06-26 23:50:03,product_view,Mobile,Direct
+E0527,C0598,2025-05-04 01:40:06,begin_checkout,Desktop,Google Search
+E0528,C0195,,add_to_cart,Desktop,Google Search
+E0529,C0929,2025-05-18 18:43:17,product_view,Desktop,Google Search
+E0530,C0696,2025-05-06 18:11:08,product_view,Desktop,Google Search
+E0531,C0653,2025-03-13 09:47:52,product_view,Mobile,Email Marketing
+E0532,C0103,27/05/2025 03:03 PM,product_view,Mobile,Google Search
+E0533,C0623,2025-04-25 06:04:27,begin_checkout,Desktop,Google Search
+E0534,C0125,2025-04-17 03:24:40,add_to_cart,Mobile,nan
+E0535,C0082,2025-05-24 09:25:35,product_view,Mobile,Google Search
+E0536,C0544,,product_view,Desktop,Instagram
+E0537,C0416,2025-02-08 03:36:44,product_view,Mobile,Google Search
+E0538,C0608,2025-05-31 17:06:21,add_to_cart,Desktop,Direct
+E0539,C0092,2025-05-21 18:20:47,product_view,Mobile,Facebook
+E0540,C0445,2025-02-07 13:45:52,add_to_cart,Mobile,Facebook
+E0541,C0181,27/02/2025 02:58 AM,product_view,Mobile,Facebook
+E0542,C9901,2025-03-29 03:37:44,add_to_cart,Mobile,Instagram
+E0543,C0579,2025-02-04 10:51:52,begin_checkout,Mobile,Direct
+E0544,C0709,2025-05-13 13:25:15,product_view,Mobile,Email Marketing
+E0545,C0336,2025-01-15 11:03:02,add_to_cart,Desktop,Instagram
+E0546,C0098,,nan,Tablet,Instagram
+E0547,C9999,03/02/2025 05:56 PM,product_view,Mobile,nan
+E0548,C0296,2025-05-23 17:43:07,add_to_cart,Mobile,Direct
+E0549,C0437,2025-04-10 18:41:59,product_view,Mobile,Email Marketing
+E0550,C0670,2025-01-24 04:13:44,add_to_cart,Tablet,Direct
+E0551,C0026,2025-03-15 05:52:16,product_view,nan,Google Search
+E0552,C0836,2025-01-08 21:22:09,purchase,Mobile,Facebook
+E0553,C0554,2025-03-25 04:59:28,add_to_cart,Desktop,Google Search
+E0554,C0287,2025-02-24 04:45:26,begin_checkout,Mobile,Instagram
+E0555,C0064,2025-04-19 01:56:15,add_to_cart,Mobile,Facebook
+E0556,C0168,2025-02-21 07:26:44,add_to_cart,Mobile,Google Search
+E0557,C0923,2025-01-26 06:09:14,product_view,Mobile,Facebook
+E0558,C0708,2025.02.01 - 05:58,begin_checkout,Mobile,Google Search
+E0559,C0258,2025-04-24 09:34:20,purchase,Mobile,Google Search
+E0560,C0068,2025-06-14 06:42:42,add_to_cart,Desktop,Instagram
+E0561,C0712,2025-02-19 12:27:41,purchase,Mobile,Instagram
+E0562,C0591,2025-01-02 02:18:29,add_to_cart,Mobile,Instagram
+E0563,C0418,2025-03-06 04:32:03,add_to_cart,Mobile,Instagram
+E0564,C0375,2025-04-01 13:15:41,product_view,Mobile,nan
+E0565,C0224,2025-05-18 19:23:30,product_view,Mobile,Instagram
+E0566,C0691,2025-01-31 01:26:48,product_view,Mobile,Instagram
+E0567,C9999,2025-01-08 18:08:11,product_view,Mobile,Google Search
+E0568,C0182,2025-01-30 20:18:34,add_to_cart,Mobile,Facebook
+E0569,C0616,2025-03-04 15:33:53,product_view,Mobile,Instagram
+E0570,C0438,2025-04-26 21:39:50,product_view,Mobile,Direct
+E0571,C0461,2025-01-10 21:00:12,nan,Desktop,Facebook
+E0572,C0263,2025-05-31 05:31:16,product_view,Desktop,Instagram
+E0573,C0851,02/05/2025 10:25 AM,product_view,Mobile,Instagram
+E0574,C0501,2025-04-30 12:56:39,product_view,Mobile,Email Marketing
+E0575,C0561,13/06/2025 05:19 PM,product_view,Mobile,Direct
+E0576,C0315,2025-05-09 12:37:55,begin_checkout,Desktop,Facebook
+E0577,C0188,2025-02-28 11:28:59,add_to_cart,Mobile,Instagram
+E0578,C0089,2025-04-06 06:07:59,begin_checkout,Mobile,Google Search
+E0579,C0737,03/06/2025 09:14 AM,product_view,Mobile,Google Search
+E0580,C0203,2025-04-22 04:52:05,add_to_cart,Tablet,Instagram
+E0581,C0712,2025-04-17 19:55:56,product_view,Mobile,Google Search
+E0582,C0403,11/03/2025 12:47 PM,product_view,Desktop,Google Search
+E0583,C0429,2025-01-15 03:38:56,product_view,Mobile,Instagram
+E0584,C0484,2025-06-02 05:51:04,product_view,Tablet,Facebook
+E0585,C0380,2025.05.18 - 10:02,product_view,Desktop,Direct
+E0586,C0104,2025-03-03 17:19:49,product_view,Mobile,Instagram
+E0587,C0320,2025-04-13 00:31:06,nan,Desktop,Direct
+E0588,C0685,2025-02-12 17:05:50,product_view,Mobile,Instagram
+E0589,C0687,2025-02-05 16:53:31,product_view,Desktop,Direct
+E0590,C0296,2025-04-12 02:12:04,product_view,Desktop,Instagram
+E0591,C0475,,add_to_cart,Mobile,Instagram
+E0592,C0200,02/06/2025 04:13 PM,product_view,Desktop,Facebook
+E0593,C0217,2025-04-09 02:07:28,purchase,Mobile,Google Search
+E0594,C0024,2025-01-31 22:43:13,nan,Mobile,Email Marketing
+E0595,C0925,22/03/2025 06:22 PM,product_view,Mobile,Google Search
+E0596,C0218,2025-04-16 10:56:13,product_view,Desktop,Instagram
+E0597,C0235,2025-04-15 06:46:08,product_view,Mobile,Google Search
+E0598,C0289,2025-03-20 08:03:35,add_to_cart,Mobile,Google Search
+E0599,C0132,2025-01-18 20:29:50,product_view,Desktop,Google Search
+E0600,C0660,2025-03-09 20:20:08,product_view,Mobile,Facebook
+E0601,C0078,2025-02-12 22:51:27,product_view,Mobile,Facebook
+E0602,C0139,2025-06-21 12:55:37,add_to_cart,Mobile,Direct
+E0603,C0665,2025.02.11 - 10:18,product_view,Mobile,nan
+E0604,C0351,2025-05-09 19:21:45,product_view,Mobile,Instagram
+E0605,C0730,2025-03-06 10:41:21,add_to_cart,Mobile,Facebook
+E0606,C0575,2025-03-06 06:52:54,add_to_cart,nan,Google Search
+E0607,C0264,2025-03-12 01:26:23,begin_checkout,Desktop,Facebook
+E0608,C0671,2025-02-27 00:09:20,product_view,Mobile,Google Search
+E0609,C0120,2025-02-12 10:01:43,begin_checkout,Mobile,nan
+E0610,C0554,2025-05-27 03:37:47,add_to_cart,Mobile,Facebook
+E0611,C0451,2025-05-01 01:23:47,product_view,Desktop,nan
+E0612,C0277,2025-04-14 00:18:14,add_to_cart,Mobile,Direct
+E0613,C0623,2025-04-03 04:59:41,product_view,Mobile,Email Marketing
+E0614,C0899,2025-04-20 00:00:33,purchase,Desktop,Direct
+E0615,UNKNOWN,2025-06-09 22:39:58,product_view,Mobile,Google Search
+E0616,C0627,2025-05-27 01:11:50,add_to_cart,Mobile,Instagram
+E0617,C0418,2025-05-07 01:57:28,product_view,Desktop,Google Search
+E0618,C0233,2025.01.02 - 17:01,purchase,Desktop,Instagram
+E0619,C0266,2025-01-23 06:38:34,product_view,Mobile,Google Search
+E0620,C0495,2025.05.10 - 21:28,nan,Desktop,Google Search
+E0621,C0379,09/03/2025 04:30 AM,purchase,Mobile,Google Search
+E0622,C0943,2025-03-28 12:57:35,product_view,Desktop,nan
+E0623,C0380,2025-02-16 16:06:08,begin_checkout,Mobile,Email Marketing
+E0624,C0385,2025-06-25 15:15:32,nan,Desktop,Instagram
+E0625,C0396,2025-05-05 17:10:07,product_view,nan,Google Search
+E0626,C0863,2025.04.30 - 04:03,product_view,Tablet,Google Search
+E0627,C0671,28/06/2025 09:01 AM,add_to_cart,Tablet,Google Search
+E0628,C0634,01/05/2025 02:41 PM,product_view,Mobile,Direct
+E0629,C0345,2025-02-17 08:19:00,product_view,Mobile,Google Search
+E0630,C0844,2025-01-08 17:50:29,product_view,Mobile,Google Search
+E0631,C0040,2025-05-13 12:55:11,product_view,Desktop,Direct
+E0632,C0898,2025-06-21 23:28:31,product_view,Tablet,Direct
+E0633,C0529,04/03/2025 07:40 AM,product_view,Mobile,Instagram
+E0634,C0411,2025-03-16 01:19:30,purchase,Tablet,Facebook
+E0635,C0513,2025-06-27 20:33:16,add_to_cart,Desktop,Google Search
+E0636,C0689,2025-06-04 14:35:29,product_view,nan,Instagram
+E0637,C0014,2025-01-23 00:21:40,add_to_cart,Tablet,Instagram
+E0638,C0899,2025-03-16 22:18:43,add_to_cart,Mobile,Google Search
+E0639,C0461,2025-02-19 19:47:55,purchase,Mobile,Google Search
+E0640,C0354,2025-04-15 21:41:18,product_view,Mobile,Instagram
+E0641,C0143,2025-05-21 13:58:15,product_view,Mobile,Facebook
+E0642,C0454,2025-02-24 22:04:43,purchase,Desktop,Facebook
+E0643,C0512,2025.01.05 - 19:08,purchase,Desktop,Instagram
+E0644,C0417,2025-06-26 23:07:59,begin_checkout,Tablet,Instagram
+E0645,C0700,2025-04-11 08:46:43,begin_checkout,Desktop,Direct
+E0646,C0434,2025-06-09 15:18:21,product_view,Mobile,Instagram
+E0647,C0992,30/05/2025 02:45 PM,add_to_cart,Mobile,Email Marketing
+E0648,C0618,2025-03-14 19:25:52,product_view,Mobile,Facebook
+E0649,C0833,2025-04-10 20:51:14,product_view,Mobile,Instagram
+E0650,C0113,2025-06-05 21:23:49,begin_checkout,Mobile,Instagram
+E0651,C0410,2025-04-09 18:52:46,product_view,Mobile,Instagram
+E0652,C0348,2025-03-28 12:26:44,product_view,Mobile,Instagram
+E0653,C0588,05/04/2025 12:40 PM,purchase,Mobile,Instagram
+E0654,C0888,2025-01-09 12:21:48,product_view,Desktop,Facebook
+E0655,C0081,2025-02-27 13:28:56,nan,Mobile,Instagram
+E0656,C0075,2025-06-24 10:17:44,nan,Mobile,Google Search
+E0657,C0877,2025-05-07 12:20:29,add_to_cart,Mobile,Google Search
+E0658,C0220,2025-02-07 09:10:21,product_view,nan,Instagram
+E0659,C0690,2025.03.04 - 04:45,product_view,Mobile,Instagram
+E0660,C0560,2025.04.10 - 18:55,product_view,Mobile,Instagram
+E0661,C0859,2025-01-16 23:45:27,product_view,Desktop,Instagram
+E0662,C0129,,product_view,Mobile,Facebook
+E0663,C0134,02/02/2025 12:06 PM,nan,Tablet,Instagram
+E0664,C0575,2025-05-31 03:55:31,product_view,Mobile,Direct
+E0665,C0976,2025-04-15 11:08:39,begin_checkout,Mobile,Google Search
+E0666,C0428,14/04/2025 12:55 PM,product_view,Mobile,Google Search
+E0667,C0338,2025-01-02 10:09:46,add_to_cart,Desktop,Google Search
+E0668,C0626,2025-05-02 17:43:11,purchase,Mobile,Facebook
+E0669,C0960,2025-01-13 17:07:14,product_view,Mobile,Instagram
+E0670,C0863,2025-02-10 22:18:46,product_view,Mobile,Instagram
+E0671,UNKNOWN,2025-05-11 03:59:17,add_to_cart,Mobile,Google Search
+E0672,C0024,2025-05-03 05:45:00,add_to_cart,Mobile,Instagram
+E0673,C0117,2025-05-31 05:09:16,add_to_cart,Desktop,Google Search
+E0674,C0629,2025-02-11 09:28:05,product_view,Desktop,Facebook
+E0675,C0846,2025.06.17 - 22:57,product_view,Mobile,Google Search
+E0676,C0295,2025-05-14 02:13:10,purchase,Mobile,Facebook
+E0677,C0247,2025-03-24 08:57:33,purchase,Desktop,Google Search
+E0678,C0812,2025-06-12 06:28:53,product_view,Mobile,Facebook
+E0679,C0059,2025-01-21 04:20:02,begin_checkout,Mobile,Facebook
+E0680,C0381,2025-02-09 22:04:12,product_view,Mobile,Google Search
+E0681,C0522,2025.04.15 - 10:06,product_view,Desktop,Facebook
+E0682,C0578,2025-06-10 22:14:55,product_view,Tablet,Direct
+E0683,C0752,,product_view,Desktop,Google Search
+E0684,C0366,2025-06-20 14:44:46,add_to_cart,Mobile,Google Search
+E0685,C0632,2025-05-24 23:03:29,product_view,Mobile,Facebook
+E0686,C0604,31/05/2025 12:43 PM,product_view,Tablet,Google Search
+E0687,C0565,2025.03.26 - 12:21,begin_checkout,Mobile,Instagram
+E0688,C0661,06/05/2025 01:11 PM,add_to_cart,nan,Email Marketing
+E0689,C0268,2025.06.08 - 14:21,add_to_cart,Tablet,Instagram
+E0690,C0088,2025-01-15 00:06:21,purchase,Mobile,Facebook
+E0691,C0123,2025-05-26 00:45:48,product_view,Tablet,Facebook
+E0692,C0232,2025-05-14 05:11:40,add_to_cart,Mobile,nan
+E0693,C0516,2025-01-30 20:32:53,begin_checkout,Desktop,Instagram
+E0694,C0867,2025-01-05 14:41:48,add_to_cart,Mobile,Google Search
+E0695,C0723,2025-03-31 04:08:40,product_view,Mobile,Google Search
+E0696,C0814,2025-05-20 04:50:54,product_view,Desktop,Google Search
+E0697,C0362,2025.03.06 - 09:54,purchase,Desktop,Instagram
+E0698,C0418,2025-01-08 08:33:46,product_view,Mobile,Google Search
+E0699,C0406,2025-01-17 23:52:37,purchase,Desktop,Google Search
+E0700,C0198,2025-01-15 05:21:38,add_to_cart,Mobile,Instagram
+E0701,C0064,2025-01-11 12:54:27,add_to_cart,Mobile,Facebook
+E0702,C0610,2025-02-04 13:30:12,begin_checkout,Mobile,Facebook
+E0703,C7777,2025-06-04 05:18:33,add_to_cart,Mobile,Facebook
+E0704,C0172,2025-02-18 21:58:34,product_view,Mobile,Email Marketing
+E0705,C0049,2025-04-19 08:51:39,add_to_cart,Mobile,Google Search
+E0706,C0804,2025-01-14 16:17:02,begin_checkout,Mobile,nan
+E0707,C0261,2025-04-22 15:31:06,product_view,Mobile,Direct
+E0708,C0856,2025.06.09 - 13:01,product_view,Mobile,Instagram
+E0709,C0726,2025-02-14 04:54:19,product_view,nan,Instagram
+E0710,C0975,26/06/2025 09:30 PM,purchase,Mobile,Google Search
+E0711,C0422,2025-02-20 05:23:12,product_view,Tablet,Google Search
+E0712,C0683,2025-03-21 03:42:23,add_to_cart,Desktop,Google Search
+E0713,C0480,2025-03-17 08:21:46,product_view,Desktop,Google Search
+E0714,C0651,29/03/2025 02:23 PM,product_view,Desktop,Facebook
+E0715,C0464,2025-05-03 09:01:31,add_to_cart,Desktop,Google Search
+E0716,C0195,20/03/2025 12:51 PM,product_view,Mobile,Instagram
+E0717,C0524,2025.03.26 - 02:02,add_to_cart,Mobile,Direct
+E0718,C0545,2025-03-03 10:33:02,begin_checkout,Desktop,Instagram
+E0719,C0836,04/01/2025 06:43 AM,begin_checkout,Desktop,nan
+E0720,C0759,2025-03-17 15:12:36,product_view,Desktop,Instagram
+E0721,C0685,2025.05.11 - 17:47,purchase,Mobile,nan
+E0722,C0117,2025-01-23 23:20:41,add_to_cart,Desktop,Instagram
+E0723,C0743,14/04/2025 08:30 PM,purchase,Mobile,Instagram
+E0724,C0516,2025-01-02 03:29:27,add_to_cart,Mobile,Instagram
+E0725,C0922,05/05/2025 01:14 PM,add_to_cart,Mobile,Facebook
+E0726,C0949,2025.05.20 - 20:46,purchase,Desktop,Direct
+E0727,C0057,2025-05-01 01:43:00,purchase,Tablet,Google Search
+E0728,C0847,2025-01-13 06:42:30,product_view,Mobile,Email Marketing
+E0729,C0039,2025-05-27 19:01:54,product_view,Desktop,Google Search
+E0730,C0379,2025-05-25 20:23:01,product_view,Mobile,Facebook
+E0731,C0560,2025-04-24 17:07:52,product_view,Mobile,Direct
+E0732,C0153,2025-01-09 20:07:26,product_view,Mobile,Instagram
+E0733,C0770,2025-05-17 02:20:49,product_view,Mobile,Google Search
+E0734,C0009,2025-06-14 17:08:14,purchase,Mobile,Email Marketing
+E0735,C0174,2025-01-15 02:17:28,product_view,Mobile,Email Marketing
+E0736,C0599,2025-03-11 11:00:12,add_to_cart,Desktop,nan
+E0737,C0737,,product_view,Desktop,Email Marketing
+E0738,C0945,,product_view,Mobile,Instagram
+E0739,C0728,26/02/2025 06:44 AM,product_view,Mobile,Direct
+E0740,C0693,2025-06-02 19:10:55,product_view,Mobile,Google Search
+E0741,C0407,2025-05-14 04:25:34,begin_checkout,Mobile,nan
+E0742,C0002,2025-02-28 12:23:45,purchase,Mobile,Google Search
+E0743,C0124,28/04/2025 06:48 PM,product_view,Mobile,Google Search
+E0744,C0552,2025-01-17 19:08:36,product_view,Tablet,Google Search
+E0745,C0697,2025-02-24 15:57:58,product_view,Desktop,Instagram
+E0746,C0431,2025-05-29 14:26:11,purchase,Mobile,Instagram
+E0747,C0754,2025-06-29 22:41:33,begin_checkout,Mobile,Email Marketing
+E0748,C0539,2025-03-26 23:43:07,add_to_cart,Mobile,Direct
+E0749,C0077,2025-03-16 01:30:57,add_to_cart,Desktop,Instagram
+E0750,C0198,2025-03-18 17:21:40,begin_checkout,Mobile,Facebook
+E0751,C0866,2025-06-09 15:22:04,product_view,Mobile,Facebook
+E0752,C0748,2025-05-09 07:11:35,product_view,Desktop,Google Search
+E0753,C0923,06/01/2025 11:37 PM,purchase,Mobile,Instagram
+E0754,C0122,2025-04-03 00:56:33,begin_checkout,Mobile,Direct
+E0755,C7777,2025-01-31 08:31:12,add_to_cart,Mobile,Facebook
+E0756,C0216,2025-04-14 14:08:23,add_to_cart,Mobile,Google Search
+E0757,C0013,2025-02-12 16:38:54,product_view,Mobile,Google Search
+E0758,UNKNOWN,2025-01-27 11:35:01,add_to_cart,Mobile,Instagram
+E0759,C0290,,add_to_cart,Mobile,Google Search
+E0760,C0689,2025-03-17 22:09:26,product_view,Mobile,Instagram
+E0761,C0183,2025-06-04 17:13:09,add_to_cart,Desktop,Instagram
+E0762,C0599,2025-06-04 20:32:51,purchase,Mobile,Facebook
+E0763,C0932,2025-06-14 22:48:18,product_view,Mobile,Email Marketing
+E0764,C0331,2025-04-16 23:15:37,product_view,Desktop,Google Search
+E0765,C0691,2025-02-27 06:41:57,product_view,Desktop,Instagram
+E0766,C0194,2025-05-04 02:52:01,add_to_cart,Desktop,Facebook
+E0767,C0645,2025-01-28 23:26:26,product_view,Mobile,Direct
+E0768,C0347,2025-02-27 21:02:38,add_to_cart,Mobile,Facebook
+E0769,C0218,2025-05-12 12:23:44,purchase,Desktop,Direct
+E0770,C0323,2025-06-22 05:37:03,product_view,Desktop,Google Search
+E0771,C0185,2025-06-27 12:20:09,purchase,Mobile,Facebook
+E0772,C0930,04/06/2025 09:02 AM,nan,Tablet,Instagram
+E0773,C0410,2025-06-18 09:09:37,product_view,Mobile,Google Search
+E0774,C0253,2025-05-22 14:53:55,product_view,nan,Google Search
+E0775,C0463,06/05/2025 07:37 PM,purchase,Desktop,Google Search
+E0776,C0331,14/03/2025 10:54 AM,purchase,Desktop,Email Marketing
+E0777,C0768,2025-01-03 03:57:49,product_view,Tablet,Direct
+E0778,C9999,2025-04-18 11:36:34,product_view,Desktop,Instagram
+E0779,C0452,2025.06.19 - 20:42,product_view,Mobile,Instagram
+E0780,C0888,2025-04-18 18:48:45,nan,Mobile,Google Search
+E0781,C0584,2025-01-28 10:50:59,product_view,Mobile,Instagram
+E0782,C0163,2025-01-24 22:19:02,add_to_cart,Mobile,Facebook
+E0783,C0712,2025-01-09 02:40:37,begin_checkout,Desktop,Email Marketing
+E0784,C0530,2025-01-01 23:26:26,product_view,Mobile,nan
+E0785,C0671,2025-04-22 05:03:43,add_to_cart,Mobile,Facebook
+E0786,C0918,2025-04-26 20:36:47,product_view,Desktop,Direct
+E0787,C0455,2025-03-18 12:33:13,purchase,Desktop,Google Search
+E0788,C0930,2025-04-15 07:18:35,product_view,Mobile,Instagram
+E0789,C0774,17/04/2025 07:39 AM,add_to_cart,Mobile,Google Search
+E0790,C0504,2025-01-17 12:43:11,add_to_cart,Mobile,Google Search
+E0791,C0622,2025-03-01 03:57:49,product_view,Desktop,Facebook
+E0792,C0336,10/02/2025 06:55 PM,product_view,Mobile,Instagram
+E0793,C9901,2025-05-26 07:18:53,product_view,Desktop,Google Search
+E0794,C0688,2025-05-24 23:18:59,product_view,Mobile,Google Search
+E0795,C0046,2025-06-25 10:49:52,begin_checkout,Mobile,nan
+E0796,C0337,2025-05-21 23:06:47,begin_checkout,Tablet,Google Search
+E0797,C0643,2025-03-08 18:27:53,product_view,Mobile,Facebook
+E0798,C0059,2025-02-11 02:45:56,add_to_cart,Mobile,Facebook
+E0799,C0025,22/03/2025 03:06 AM,add_to_cart,Mobile,Instagram
+E0800,C0464,2025-06-25 20:31:57,begin_checkout,Mobile,Google Search
+E0801,C0343,2025-05-06 10:15:32,product_view,Mobile,Email Marketing
+E0802,C0452,,product_view,Mobile,Google Search
+E0803,C0271,2025-04-10 12:40:07,product_view,Mobile,nan
+E0804,C0170,2025-01-28 15:53:20,add_to_cart,Mobile,Instagram
+E0805,C0711,2025-02-01 06:06:06,product_view,Desktop,Instagram
+E0806,C0531,2025.02.05 - 17:28,product_view,Desktop,Email Marketing
+E0807,C0207,2025-02-12 20:56:47,product_view,Mobile,Direct
+E0808,C0330,2025-04-30 18:53:31,add_to_cart,Desktop,nan
+E0809,C0611,2025-06-12 02:12:33,product_view,Mobile,Facebook
+E0810,C0075,2025-02-19 01:51:43,product_view,Mobile,Email Marketing
+E0811,C0153,2025-02-07 17:37:32,product_view,Mobile,Direct
+E0812,C0076,2025-01-23 06:10:47,product_view,Mobile,Direct
+E0813,C0838,2025-02-05 05:11:22,add_to_cart,Mobile,Google Search
+E0814,C0776,2025.05.11 - 06:59,product_view,Mobile,Google Search
+E0815,C0777,2025-06-05 06:41:09,product_view,Mobile,Email Marketing
+E0816,C0739,2025-04-21 03:46:31,add_to_cart,Tablet,Google Search
+E0817,C0691,2025-06-15 11:46:41,product_view,Mobile,Google Search
+E0818,C0492,2025.01.11 - 13:28,product_view,Desktop,Google Search
+E0819,C0663,2025-06-15 07:45:15,purchase,Desktop,Google Search
+E0820,C0040,2025-05-26 20:06:30,product_view,Mobile,Google Search
+E0821,C0641,2025-04-17 13:49:53,product_view,Mobile,Instagram
+E0822,C0802,2025.03.31 - 13:39,product_view,Mobile,Direct
+E0823,C0516,2025-05-06 04:24:03,add_to_cart,Mobile,Google Search
+E0824,C0369,,add_to_cart,Mobile,Google Search
+E0825,C0287,2025-01-15 04:52:42,add_to_cart,Desktop,Instagram
+E0826,C0663,2025-02-26 10:32:22,add_to_cart,Mobile,Instagram
+E0827,C0715,2025.05.11 - 10:16,product_view,Mobile,Instagram
+E0828,C0898,2025-01-14 01:55:59,product_view,Desktop,Facebook
+E0829,C0353,2025-02-18 16:17:20,begin_checkout,Desktop,Instagram
+E0830,C0794,2025-01-20 01:39:22,purchase,Mobile,Email Marketing
+E0831,C0579,2025-02-08 08:01:57,product_view,Desktop,Instagram
+E0832,C0911,,add_to_cart,Mobile,Instagram
+E0833,C0545,2025-04-23 17:46:18,product_view,Mobile,Instagram
+E0834,C0534,2025-04-05 14:28:18,product_view,Mobile,Instagram
+E0835,C0596,2025-03-06 05:52:37,product_view,Mobile,Facebook
+E0836,C0773,2025.03.11 - 08:23,product_view,Tablet,Direct
+E0837,C0995,2025-01-25 21:31:33,add_to_cart,Mobile,Facebook
+E0838,C0076,2025-05-11 08:27:50,add_to_cart,Mobile,Instagram
+E0839,C0056,2025-05-08 06:43:31,product_view,Mobile,Instagram
+E0840,C0967,2025-02-15 13:00:08,product_view,Mobile,Google Search
+E0841,C0547,2025-01-20 10:14:37,begin_checkout,Mobile,nan
+E0842,C0634,2025-02-25 08:50:07,product_view,Mobile,Instagram
+E0843,C0498,2025-05-01 07:09:10,add_to_cart,Desktop,Facebook
+E0844,C0097,,product_view,Mobile,Google Search
+E0845,C0792,,add_to_cart,Mobile,Instagram
+E0846,C0771,2025-02-07 13:46:07,product_view,Mobile,Google Search
+E0847,C0322,2025-03-03 16:59:23,product_view,Mobile,Instagram
+E0848,C0316,2025-04-05 08:16:38,product_view,Mobile,Direct
+E0849,C0864,2025-03-29 12:09:44,product_view,Desktop,Instagram
+E0850,C0075,,product_view,nan,Facebook
+E0851,C0909,,add_to_cart,Mobile,Instagram
+E0852,C0265,2025.05.09 - 01:07,product_view,Mobile,nan
+E0853,C0612,2025.03.01 - 08:33,product_view,Desktop,Instagram
+E0854,C0965,2025-05-15 15:44:56,add_to_cart,Mobile,Direct
+E0855,C0700,2025-04-24 10:25:45,add_to_cart,Mobile,Direct
+E0856,C0428,2025-01-30 14:12:43,nan,Mobile,nan
+E0857,C0711,2025-04-20 19:39:48,add_to_cart,Desktop,Google Search
+E0858,C0355,2025-04-21 01:46:04,product_view,Mobile,Facebook
+E0859,C0286,2025-03-12 18:39:45,add_to_cart,Desktop,Google Search
+E0860,UNKNOWN,2025-06-06 20:09:13,purchase,Desktop,Instagram
+E0861,C0775,03/03/2025 10:13 AM,begin_checkout,Mobile,Google Search
+E0862,C0665,2025-03-25 04:03:25,product_view,Desktop,Instagram
+E0863,C0367,2025-02-02 17:55:01,product_view,Desktop,nan
+E0864,C0051,2025-01-01 22:31:05,product_view,Mobile,Instagram
+E0865,C0033,2025-03-02 19:41:12,add_to_cart,Mobile,Google Search
+E0866,C0572,2025-02-17 19:15:33,begin_checkout,Mobile,Facebook
+E0867,C0786,2025-06-02 13:26:29,add_to_cart,Mobile,Google Search
+E0868,C0554,2025-02-13 00:23:04,product_view,Mobile,Facebook
+E0869,C0867,2025-05-19 07:05:18,begin_checkout,Mobile,Instagram
+E0870,C0035,2025-05-24 15:47:36,begin_checkout,Mobile,Google Search
+E0871,C0379,2025-05-05 10:31:26,product_view,Desktop,Instagram
+E0872,C0245,2025-03-26 16:29:07,add_to_cart,Mobile,nan
+E0873,C0462,2025-02-23 17:25:17,product_view,Mobile,Facebook
+E0874,C0075,2025-06-13 03:11:47,purchase,Mobile,nan
+E0875,C0984,2025-03-11 19:19:34,begin_checkout,Mobile,Instagram
+E0876,C0231,2025.01.27 - 01:54,add_to_cart,Mobile,Instagram
+E0877,C0951,2025.05.12 - 23:04,add_to_cart,Mobile,Instagram
+E0878,C0440,2025-05-23 07:54:02,purchase,Mobile,Instagram
+E0879,C9901,2025.03.06 - 09:11,add_to_cart,Desktop,Instagram
+E0880,C0572,20/06/2025 11:14 AM,product_view,Desktop,Facebook
+E0881,C0960,2025-04-04 04:44:51,begin_checkout,Mobile,Instagram
+E0882,C0006,2025-03-31 21:01:47,product_view,Desktop,Google Search
+E0883,C0772,2025-03-28 11:31:06,product_view,Desktop,Direct
+E0884,C0931,2025-03-11 15:51:25,purchase,Mobile,Facebook
+E0885,C0145,2025-05-31 10:40:32,begin_checkout,nan,Google Search
+E0886,C0100,2025-03-01 07:36:06,product_view,Desktop,Google Search
+E0887,C0438,2025-04-05 13:27:04,product_view,Mobile,Google Search
+E0888,C0963,18/04/2025 02:58 AM,product_view,Mobile,Instagram
+E0889,C0560,2025-01-22 03:11:48,product_view,Mobile,Facebook
+E0890,C0544,2025-02-04 03:08:53,product_view,Mobile,Google Search
+E0891,C0146,2025-05-06 08:29:18,begin_checkout,Desktop,Direct
+E0892,C0001,,product_view,Mobile,Facebook
+E0893,C0836,,product_view,Desktop,Facebook
+E0894,C0091,2025-06-13 11:02:22,product_view,Desktop,Google Search
+E0895,C0654,2025-02-24 11:45:54,nan,Desktop,Instagram
+E0896,C0943,16/06/2025 05:53 PM,product_view,Desktop,Facebook
+E0897,C0216,2025-06-10 11:30:24,product_view,Mobile,Google Search
+E0898,C0686,2025-01-28 04:27:18,product_view,Mobile,Instagram
+E0899,C0082,2025-06-23 01:44:42,add_to_cart,Desktop,Instagram
+E0900,C0623,2025-04-15 14:08:31,add_to_cart,Mobile,Instagram
+E0901,C0170,2025-02-08 03:26:20,product_view,Mobile,Facebook
+E0902,C0759,2025-02-21 02:45:44,product_view,Desktop,Instagram
+E0903,C0311,,product_view,Desktop,Google Search
+E0904,C0478,2025-06-22 02:37:27,add_to_cart,Mobile,Google Search
+E0905,C0618,2025-05-02 16:15:20,add_to_cart,Desktop,Google Search
+E0906,C0177,2025-01-15 20:20:25,product_view,Desktop,Direct
+E0907,C0765,2025-05-22 06:02:52,product_view,Mobile,Direct
+E0908,C0313,2025-01-15 15:23:21,product_view,Mobile,Google Search
+E0909,C0683,2025-06-23 05:30:41,product_view,Tablet,Instagram
+E0910,C0164,2025-01-04 14:49:24,add_to_cart,Mobile,Google Search
+E0911,C0710,14/06/2025 11:21 PM,product_view,Mobile,Google Search
+E0912,C0133,2025-04-09 11:37:20,product_view,Mobile,Google Search
+E0913,C0439,03/05/2025 03:35 PM,product_view,Desktop,Facebook
+E0914,C0255,2025-01-07 01:22:32,purchase,Mobile,Instagram
+E0915,C0772,2025-06-07 19:11:17,begin_checkout,Mobile,Facebook
+E0916,C0271,2025-04-23 23:48:22,product_view,Mobile,Instagram
+E0917,C0909,2025-04-23 09:52:23,product_view,nan,Facebook
+E0918,C0920,2025-03-20 16:03:48,product_view,Mobile,Google Search
+E0919,C0203,2025-05-30 08:43:58,add_to_cart,Mobile,Facebook
+E0920,C0633,2025-04-25 13:46:06,product_view,Tablet,Instagram
+E0921,C0091,2025-02-11 07:32:11,add_to_cart,Mobile,Google Search
+E0922,C0404,,add_to_cart,nan,Facebook
+E0923,C0736,2025.01.08 - 02:49,purchase,Tablet,Instagram
+E0924,C0680,2025.04.18 - 02:36,product_view,Tablet,Direct
+E0925,C0645,2025-02-20 14:33:36,begin_checkout,Mobile,Facebook
+E0926,C0292,2025-04-16 12:45:02,begin_checkout,Desktop,Google Search
+E0927,C0390,2025-06-23 14:16:35,product_view,Desktop,Google Search
+E0928,C0107,2025-04-15 19:04:39,product_view,nan,Google Search
+E0929,C0742,2025-04-02 16:09:49,product_view,Mobile,Google Search
+E0930,C0520,2025.05.07 - 23:25,product_view,Desktop,Google Search
+E0931,C0731,2025-05-31 12:40:51,product_view,Mobile,Facebook
+E0932,C0257,2025-01-29 20:40:47,add_to_cart,Mobile,Google Search
+E0933,C0335,2025-03-13 00:50:18,product_view,Mobile,Instagram
+E0934,C0345,18/03/2025 05:10 AM,purchase,Desktop,Instagram
+E0935,C0027,2025.02.13 - 08:41,product_view,Mobile,Instagram
+E0936,C0352,2025-06-23 02:24:00,nan,Mobile,Instagram
+E0937,C0829,30/05/2025 10:27 PM,product_view,nan,Facebook
+E0938,C0926,2025-04-25 11:44:19,begin_checkout,Mobile,Direct
+E0939,C0535,23/05/2025 09:05 AM,product_view,Desktop,Instagram
+E0940,C0470,2025-06-16 10:40:28,product_view,Mobile,nan
+E0941,C0032,2025-02-26 12:09:15,begin_checkout,Mobile,Google Search
+E0942,C0907,2025.01.26 - 23:55,product_view,Desktop,Email Marketing
+E0943,C0014,2025-04-01 05:39:51,add_to_cart,Tablet,Facebook
+E0944,C0974,2025-04-08 07:24:11,add_to_cart,Mobile,Facebook
+E0945,C0505,2025-04-10 02:41:32,product_view,Desktop,Instagram
+E0946,C0353,2025-01-18 14:00:44,add_to_cart,Mobile,Instagram
+E0947,C0953,2025-03-19 01:09:10,begin_checkout,Mobile,Instagram
+E0948,C0026,2025-03-12 15:44:11,product_view,Mobile,Facebook
+E0949,C0600,2025-04-08 12:16:08,add_to_cart,Mobile,Google Search
+E0950,C0566,03/01/2025 01:21 AM,purchase,Mobile,Facebook
+E0951,C0227,09/05/2025 04:18 PM,product_view,Mobile,Google Search
+E0952,C0443,2025-02-16 09:15:54,product_view,Mobile,Direct
+E0953,C0673,2025-06-14 15:52:54,add_to_cart,Mobile,Instagram
+E0954,C0750,,product_view,Mobile,Instagram
+E0955,C0001,2025-04-30 05:36:54,product_view,Mobile,Google Search
+E0956,C0966,2025-05-13 20:25:27,product_view,Tablet,Google Search
+E0957,C0170,02/02/2025 04:53 AM,add_to_cart,Desktop,Google Search
+E0958,C0241,,product_view,Mobile,Facebook
+E0959,C0272,2025-04-10 20:03:02,product_view,Tablet,Instagram
+E0960,C0039,2025-01-28 06:10:29,begin_checkout,Desktop,Google Search
+E0961,C0127,2025.03.28 - 15:32,product_view,Mobile,Direct
+E0962,C9901,31/01/2025 10:01 PM,add_to_cart,Mobile,Instagram
+E0963,C0325,2025-02-04 18:52:37,nan,Desktop,nan
+E0964,C0119,2025-04-20 23:24:57,add_to_cart,Mobile,nan
+E0965,C0111,2025-04-20 20:52:39,begin_checkout,Desktop,Instagram
+E0966,C0742,2025.05.09 - 01:05,product_view,Desktop,Instagram
+E0967,C0881,2025-06-19 08:43:26,begin_checkout,Desktop,Google Search
+E0968,C0265,2025.01.29 - 09:20,product_view,nan,Facebook
+E0969,C0022,2025-05-23 21:38:05,product_view,Mobile,Google Search
+E0970,C0230,2025-05-23 03:23:17,product_view,Mobile,Facebook
+E0971,C0059,2025-04-04 21:17:21,product_view,Desktop,Facebook
+E0972,C0107,2025-03-11 16:06:30,begin_checkout,Mobile,Instagram
+E0973,C0445,2025-01-08 20:22:12,product_view,Desktop,Direct
+E0974,C0238,2025-02-12 11:46:15,add_to_cart,nan,Facebook
+E0975,C0532,2025.05.28 - 20:43,add_to_cart,Desktop,Google Search
+E0976,C0262,2025-04-05 16:34:37,add_to_cart,Desktop,Direct
+E0977,C0970,2025-02-15 00:01:58,product_view,Mobile,Facebook
+E0978,C0934,2025-01-13 04:57:15,add_to_cart,Mobile,Instagram
+E0979,C0585,2025-02-21 07:59:36,product_view,Mobile,Google Search
+E0980,C0366,2025-03-13 17:41:33,product_view,Desktop,Google Search
+E0981,C0393,2025.02.15 - 10:36,nan,Desktop,Instagram
+E0982,C0425,2025.01.09 - 07:30,product_view,Desktop,nan
+E0983,C0751,2025.05.10 - 19:50,product_view,Mobile,Instagram
+E0984,C0466,2025-02-10 03:38:13,purchase,Mobile,Facebook
+E0985,C0884,2025-04-11 13:31:12,product_view,Desktop,Google Search
+E0986,C0974,2025-06-26 06:18:36,add_to_cart,Mobile,Instagram
+E0987,C0347,2025-06-03 16:28:23,product_view,Mobile,Email Marketing
+E0988,C0579,2025-03-12 03:33:12,product_view,Desktop,Direct
+E0989,C0098,2025-03-17 08:38:41,product_view,Desktop,Google Search
+E0990,C0207,2025-04-02 04:50:25,product_view,Mobile,Instagram
+E0991,C0427,2025-06-28 05:43:59,product_view,Tablet,Instagram
+E0992,C0213,2025-03-30 06:47:31,begin_checkout,Mobile,Google Search
+E0993,C0904,2025-06-21 04:19:48,add_to_cart,nan,Instagram
+E0994,C0164,2025-01-10 00:24:51,purchase,Mobile,Google Search
+E0995,C0470,2025-01-08 17:58:09,product_view,Mobile,nan
+E0996,C0625,,add_to_cart,Tablet,Google Search
+E0997,C0714,2025-03-04 22:16:51,add_to_cart,Mobile,Direct
+E0998,C0395,2025-01-21 01:03:48,purchase,Desktop,Facebook
+E0999,C0896,2025-05-17 15:38:55,product_view,Desktop,Google Search
+E1000,C0586,2025-04-12 05:46:25,add_to_cart,Desktop,Direct
+E0051,C0929,11/05/2025 10:02 AM,add_to_cart,Desktop,Instagram
+E0052,C0959,2025-01-18 06:46:59,begin_checkout,nan,Direct
+E0053,C0396,26/06/2025 02:22 AM,product_view,Mobile,Facebook
+E0054,C0507,2025.01.22 - 10:38,add_to_cart,Mobile,Facebook
+E0055,C0924,2025-06-12 04:27:50,begin_checkout,Mobile,Instagram
+E0056,C0832,2025-04-22 11:44:44,add_to_cart,Mobile,Facebook
+E0057,C0004,2025-05-10 21:52:05,add_to_cart,Mobile,Facebook
+E0058,C0330,2025-04-06 22:41:30,product_view,Mobile,Direct
+E0059,C0435,2025-01-29 23:03:49,purchase,Tablet,Instagram
+E0060,C0237,2025-01-18 11:48:56,add_to_cart,Mobile,Instagram
+E0061,C0206,2025-06-01 08:51:19,product_view,Tablet,Google Search
+E0062,C0039,2025-04-10 08:43:11,product_view,Desktop,Instagram
+E0063,C0664,15/01/2025 01:45 PM,begin_checkout,Desktop,Google Search
+E0064,C0271,2025-05-21 12:03:03,product_view,Desktop,Email Marketing
+E0065,C0054,2025-05-21 12:06:35,nan,Desktop,Google Search
+E0066,C0239,2025-01-20 16:02:52,product_view,Desktop,Direct
+E0067,C0827,2025-06-25 16:34:39,begin_checkout,Desktop,Instagram
+E0068,C0878,2025.02.19 - 16:32,product_view,Mobile,Instagram
+E0069,C0499,2025-05-06 02:49:37,add_to_cart,nan,Instagram
+E0070,C0429,2025-02-14 21:17:06,purchase,Desktop,Instagram
+E0071,C8888,2025-03-30 16:36:54,product_view,Desktop,Email Marketing
+E0072,C0207,2025-02-27 11:33:48,add_to_cart,Desktop,Instagram
+E0073,C0223,2025-02-21 06:54:42,product_view,Mobile,Google Search
+E0074,C0301,2025-04-01 03:41:21,product_view,Mobile,Google Search
+E0075,C0179,2025.01.10 - 17:23,product_view,Mobile,Email Marketing
+E0076,C0392,2025-01-20 09:08:35,add_to_cart,Mobile,Instagram
+E0077,C0940,07/06/2025 09:41 PM,product_view,Desktop,Instagram
+E0078,C0635,2025-02-03 22:10:09,product_view,Mobile,Instagram
+E0079,C0425,2025-06-19 17:47:23,product_view,Mobile,Google Search
+E0080,C0964,2025.01.08 - 15:49,add_to_cart,Mobile,Instagram
+E0081,C0050,2025-06-15 11:46:00,add_to_cart,Mobile,Direct
+E0082,C0217,26/02/2025 10:08 AM,product_view,Desktop,Google Search
+E0083,C0584,2025-03-11 22:43:19,product_view,Desktop,Facebook
+E0084,C0635,05/06/2025 03:42 PM,purchase,Mobile,Google Search
+E0085,C0041,2025-05-12 09:57:38,product_view,Desktop,Instagram
+E0086,C0416,2025-03-02 17:19:14,begin_checkout,Desktop,Google Search
+E0087,C0670,2025.03.24 - 17:16,purchase,Mobile,nan
+E0088,C0720,2025-05-24 09:50:48,begin_checkout,Mobile,Direct
+E0089,C0658,2025-01-23 12:08:17,product_view,nan,Email Marketing
+E0090,C0331,2025.01.19 - 10:43,begin_checkout,Mobile,Direct
+E0091,C0097,2025-06-15 07:05:36,begin_checkout,Mobile,Instagram
+E0092,C0441,2025-05-28 05:29:12,add_to_cart,Mobile,Instagram
+E0093,C0133,2025-06-22 21:03:41,product_view,Desktop,Instagram
+E0094,C0977,09/01/2025 09:51 PM,product_view,Desktop,Instagram
+E0095,C0490,2025-01-02 21:04:34,product_view,Desktop,Instagram
+E0096,C0328,2025-06-15 10:36:06,add_to_cart,Mobile,Google Search
+E0097,C0791,2025.01.27 - 20:57,add_to_cart,Tablet,Facebook
+E0098,C0514,2025-05-09 19:27:30,product_view,Mobile,Direct
+E0099,C0320,06/05/2025 04:09 PM,product_view,Mobile,Facebook
+E0100,C0838,2025-02-03 02:38:41,product_view,Mobile,Email Marketing
